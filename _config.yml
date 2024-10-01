@@ -71,6 +71,12 @@ defaults:
     values:
       is_post: false
       layout: default
+  -
+    scope:
+      type: tags
+    values:
+      layout: tag
+      permalink: /tags/:tag/
 
 sass:
   style: compressed
