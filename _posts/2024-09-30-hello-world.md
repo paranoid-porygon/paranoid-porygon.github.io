@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Hello World.
+title: Hello World.txt
 summary: So I made a crappy website.
-tags: [meta]
-published: false
+tags: [hello-world,meta]
+published: true
 ---
 I have a visceral dislike for what the web has become. What originated as a way to share academic and government research quickly and persistently was eventually opened up to public use, and not long after that commercial interests began stumbling over themselves and each other as they rapidly tried to figure out the easiest ways to make a buck off the world wide web and the broader Internet. Those early dotcoms went after the low-hanging fruit of actually useful services that people actually wanted (think AOL, PayPal, eBay, Amazon). But as the web matured and all the most easily accessible entrepreneurial fruit had been picked, online capitalism did what all flavors of capitalism eventually do: shift from the laborious task of providing goods and services to the lackadaisical endeavor of rent-seeking. 
 
