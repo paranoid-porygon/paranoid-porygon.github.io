@@ -7,14 +7,16 @@
     <title>{{ site.title }}{% if page.title != "Home" %}/{{page.title}}{% endif %}</title>
 </head>
 <body>
-<h1><a href="/">💽</a>dubious-disc.blog</h1>
-    <!-- <nav> -->
-        <ul class="nav-links">
-            <!-- &nbsp;&nbsp;└<li><a href="/" {% if page.title == "Home" %}class="active-page"{% endif %}>/</a></li> -->
-            <li>&nbsp;&nbsp;├─<a href="/blog" {% if page.title == "blog" %}class="active-page"{% endif %}>/blog</a></li>
-            <li>&nbsp;&nbsp;├─<a href="/about" {% if page.title == "About" %}class="active-page"{% endif %}>/about</a></li>
-            <li>&nbsp;&nbsp;└─<a href="/contact" {% if page.title == "Contact" %}class="active-page"{% endif %}>/contact</a></li>
-        </ul>
+<!--  <div class="sidenav"> -->
+  <h1><a href="/">💽</a>dubious-disc.blog</h1>
+  <div class="sidenav dir-display">
+<!--&nbsp;&nbsp;├<li><a href="/" {% if page.title == "Home" %}class="active-page"{% endif %}>/</a></li> -->
+    ├─<a href="/blog" {% if page.title == "blog" %}class="active-page"{% endif %}>blog</a><br>
+    │&nbsp;&nbsp;└─<a href="/blog/tags" {% if page.title == "tags" %}class="active-page"{% endif %}>tags</a><br>
+    ├─<a href="/about" {% if page.title == "About" %}class="active-page"{% endif %}>about</a><br>
+    └─<a href="/contact" {% if page.title == "Contact" %}class="active-page"{% endif %}>contact</a>
+  </div>
+<!--  </div>-->
 	<!-- 
 	<p><ul class="tag-links">&emsp; └tags:
 	    {% for tag in site.tags %}

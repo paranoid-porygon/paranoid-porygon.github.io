@@ -2,3 +2,33 @@ nav > ul > li {
     display: inline-block;
     /* You can also add some margins here to make it look prettier */
 }
+
+.sidenav {
+  height: 100%;
+  width: 160px; /*change as needed*/
+  position: fixed;
+  /*z-index:1;*/
+  /*top: 0;*/
+  left: 0;
+  overflow-x: hidden; /*Disables horizontal scroll*/
+  /*padding-top: 20px;*/
+  line-height: 1.1;
+}
+
+.boxdraw-lines {
+  align: center;
+}
+
+main {  /* make sure this doesn't replace main styling in other files */
+  margin-left: 160px; /* same as sidebar nav */
+  /*margin-top: 50px;*/
+  padding: 0px 10px;
+}
+
+/* Options for smaller screens */
+/*
+@media screen and (max-height: 450px) {
+  .sidenav {}
+  .sidenav a {}
+}
+*/
