@@ -6,12 +6,12 @@ excerpt_separator: <!--excerpt-->
 <article id="post">
     <header class="post-header">
         <h1 class="post-title">{{ page.title }}</h1>
-        <div class="post-date">{{ page.date | date: "%b %-d, %Y" }}</div>
-        <ul class="post-categories">
-            {% for category in page.categories %}
-            <li class="post-category">{{ category }}</li>
+	<!-- <div class="post-date">{{ page.date | date: "%b %-d, %Y" }}</div> -->
+	<nav><ul class="tag-links">[
+            {% for tag in page.tags %}
+	    <li>{% if tag != page.tags[0] %}, {% endif %}<a href="/tag/{{ tag }}">{{ tag }}</a></li>
             {% endfor %}
-        </ul>
+	]</ul></nav>
     </header>
     {{ content }}
 </article>

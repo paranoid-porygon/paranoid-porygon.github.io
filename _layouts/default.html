@@ -8,18 +8,21 @@
 </head>
 <body>
 <h1><a href="/">💽</a>dubious-disc.blog</h1>
-    <nav>
-        <ul class="nav-links">└
-            <li><a href="/" {% if page.title == "Home" %}class="active-page"{% endif %}>/</a></li>
-            <li><a href="/about" {% if page.title == "About" %}class="active-page"{% endif %}>About</a></li>
-            <li><a href="/contact" {% if page.title == "Contact" %}class="active-page"{% endif %}>Contact</a></li>
+    <!-- <nav> -->
+        <ul class="nav-links">
+            <!-- &nbsp;&nbsp;└<li><a href="/" {% if page.title == "Home" %}class="active-page"{% endif %}>/</a></li> -->
+            <li>&nbsp;&nbsp;├─<a href="/blog" {% if page.title == "blog" %}class="active-page"{% endif %}>/blog</a></li>
+            <li>&nbsp;&nbsp;├─<a href="/about" {% if page.title == "About" %}class="active-page"{% endif %}>/about</a></li>
+            <li>&nbsp;&nbsp;└─<a href="/contact" {% if page.title == "Contact" %}class="active-page"{% endif %}>/contact</a></li>
         </ul>
-	<p><ul class="tag-links">&emsp;└tags:
+	<!-- 
+	<p><ul class="tag-links">&emsp; └tags:
 	    {% for tag in site.tags %}
 	    <li><a href="/tag/{{ tag[0] }}">{{ tag[0] }}</a></li>
 	    {% endfor %}
 	</ul></p>
-    </nav>
+	-->
+    <!-- </nav> -->
     <main class="page-content">
         {{ content }}
     </main>
