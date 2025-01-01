@@ -1,15 +1,22 @@
 html {
   background-color: #050505;
   color: #AAAA35;
+  font-family: monospace;
 }
 
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  word-spacing: -4px;
 }
 
 body {
   font-size: 18px;
-  font-family: monospace;
+}
+
+.page-content {
+  font-size: 14px;
+  align: center;
+  width: 80ch;
 }
