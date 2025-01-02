@@ -8,7 +8,7 @@ permalink: /
 ---
 
 
-  {% for post in site.posts %}
-  <h2><a href="{{ post.url }}" class="post-preview">{{ post.title }}</a></h2>
-  {{ post.excerpt }}
-  {% endfor %}
+{% for post in site.posts limit:5 %}
+<h2><a href="{{ post.url }}" class="post-preview">{{ post.title }}</a> - {{ post.date | date_to_string }}</h2>
+{{ post.excerpt }}
+{% endfor %}
