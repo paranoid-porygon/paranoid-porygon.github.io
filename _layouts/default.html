@@ -9,7 +9,9 @@
 <body>
 <!--  <div class="sidenav"> -->
   <div class="nav-wrapper">
-    <h1><a class="logo" href="/">💽dubious-disc.blog</a></h1>
+    <div class="logo-wrapper">
+      <a class="logo" href="/"><font class="icon">💽</font><span class="logo-wrapper">dubious-disc.blog</span></a>
+    </div>
     <div class="sidenav dir-display">
   <!--&nbsp;&nbsp;├<li><a href="/" {% if page.title == "Home" %}class="active-page"{% endif %}>/</a></li> -->
       ├─<a href="/about" {% if page.title == "About" %}class="active-page"{% endif %}>about</a><br>
@@ -18,10 +20,12 @@
       └─<a href="/contact" {% if page.title == "Contact" %}class="active-page"{% endif %}>contact</a>
     </div>
   </div>
-    <main class="page-content">
-        {{ content }}
-    </main>
-    <footer>
-    </footer>
+  <main> 
+    <div class="page-content">
+      {{ content }}
+    </div>
+  </main>
+  <footer>
+  </footer>
 </body>
 </html>

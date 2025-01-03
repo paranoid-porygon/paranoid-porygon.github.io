@@ -6,6 +6,8 @@ nav > ul > li {
 .nav-wrapper {
   top: 0;
   left: 0;
+  /*margin-top: -5px;
+  padding-top: 0px;*/
   width: fit-content; /*500px;*/
   height: 100%;
   position: fixed;
@@ -13,11 +15,11 @@ nav > ul > li {
 
 .sidenav {
   height: 100%;
-  width: fit-content; /*160px;*/
+  width: inherit;  //fit-content; /*160px;*/
   position: fixed;
   margin-top: -5px;
-  margin-left: 10px;
-  z-index:1;
+  margin-left: 0px;
+//  z-index:1;
   background-color: #050505;
   /*top: 0;*/
   left: 0;
@@ -30,12 +32,12 @@ nav > ul > li {
   align: center;
 }
 
-main {  /* make sure this doesn't replace main styling in other files */
-  margin-left: 160px; /* same as sidebar nav */
-  margin-top: 50px;
-  padding: 0px 10px;
+//main {  /* make sure this doesn't replace main styling in other files */
+//  margin-left: 160px; /* same as sidebar nav */
+//  margin-top: 50px;
+//  padding: 0px 10px;
   /*position: fixed;*/
-}
+//}
 
 /* Options for smaller screens */
 /*

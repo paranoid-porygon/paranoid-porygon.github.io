@@ -13,7 +13,7 @@ html {
 
 body {
   font-size: 18px;
-  display: flex;
+//  display: flex;
 }
 
 .logo {
@@ -22,13 +22,29 @@ body {
   text-decoration: none;
   color: #AAAA35;
   background-color: #050505;
-  z-index: 1;
+//  z-index: 1;
   width: 100%;
 }
 
+/*.logo-wrapper {
+  display: table-cell;
+  vertical-align: middle;
+  align-items: center;
+}*/
+
+.icon {
+  font-size: 24px;
+}
+
+main {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+
 .page-content {
+  margin: auto;
   font-size: 14px;
-  align: center;
   width: 80ch;
 }
 
