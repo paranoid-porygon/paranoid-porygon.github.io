@@ -8,11 +8,12 @@ html {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  word-spacing: -4px;
+  word-spacing: -4px; /*monospace font is usually spaced too far apart*/
 }
 
 body {
   font-size: 18px;
+  display: flex;
 }
 
 .logo {
@@ -20,6 +21,9 @@ body {
   top: 0;
   text-decoration: none;
   color: #AAAA35;
+  background-color: #050505;
+  z-index: 1;
+  width: 100%;
 }
 
 .page-content {
