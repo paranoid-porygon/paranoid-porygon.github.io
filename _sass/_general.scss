@@ -1,5 +1,5 @@
 html {
-  background-color: #050505;
+  background-color: #000000;
   color: #AAAA35;
   font-family: monospace;
 }
@@ -26,26 +26,27 @@ body {
   width: 100%;
 }
 
-/*.logo-wrapper {
-  display: table-cell;
-  vertical-align: middle;
-  align-items: center;
-}*/
+.logo-wrapper {
+//  display: table-cell;
+  vertical-align: top;
+//  align-items: center;
+}
 
 .icon {
   font-size: 24px;
 }
 
 main {
+  width: 80ch;
   margin: auto;
-  display: flex;
-  flex-direction: column;
+//  display: flex;
+//  flex-direction: column;
 }
 
 .page-content {
   margin: auto;
+  padding-left: 225px;
   font-size: 14px;
-  width: 80ch;
 }
 
 li {
