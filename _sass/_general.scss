@@ -16,14 +16,22 @@ body {
 //  display: flex;
 }
 
-.logo {
+a:link.logo, a:visited.logo {
   left: 0;
   top: 0;
   text-decoration: none;
-  color: #AAAA35;
+  color: hotpink;  //#AAAA35;
   background-color: #050505;
 //  z-index: 1;
   width: 100%;
+}
+
+.logo-text {
+  text-shadow:
+    1px 1px 0.2em white,
+    2px 2px cyan   //,
+//    0 0 0.2em cyan
+;
 }
 
 .logo-wrapper {
@@ -56,4 +64,11 @@ li {
 
 p {
   padding: 10px;
+}
+
+a:link {
+  color: cyan;
+}
+a:visited {
+  color: hotpink;
 }
