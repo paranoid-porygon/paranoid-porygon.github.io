@@ -7,8 +7,11 @@ permalink: /contact/
 
 ## Email
 
+[paranoid-porygon@proton.me](mailto:paranoid-porygon%40proton.me)
+
+
 ## Socials
 
-* 🦋 [ParanoidPorygon.bsky.social](https://ParanoidPorygon.bsky.social)
+🦋 [ParanoidPorygon.bsky.social](https://ParanoidPorygon.bsky.social)
 
 

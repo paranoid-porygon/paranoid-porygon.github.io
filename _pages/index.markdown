@@ -7,7 +7,7 @@ title: Home
 permalink: /
 ---
 
-
+# Blog and News
 {% for post in site.posts limit:5 %}
 <h2><a href="{{ post.url }}" class="post-preview">{{ post.title }}</a> - {{ post.date | date_to_string }}</h2>
 {{ post.excerpt }}
