@@ -16,21 +16,30 @@ body {
 //  display: flex;
 }
 
-a:link.logo, a:visited.logo {
+a.logo {
   left: 0;
   top: 0;
   text-decoration: none;
-  color: hotpink;  //#AAAA35;
-  background-color: #050505;
+   background-color: #050505;
 //  z-index: 1;
   width: 100%;
 }
 
 .logo-text {
+color: cyan;  //#AAAA35;
+  text-shadow:
+    1px 1px 0.2em white,
+    2px 2px hotpink   //,
+//    0 0 0.2em cyan
+;
+
+}
+
+.logo-text:hover, .logo-text:active {
+  color: hotpink;  //#AAAA35;
   text-shadow:
     1px 1px 0.2em white,
     2px 2px cyan   //,
-//    0 0 0.2em cyan
 ;
 }
 
