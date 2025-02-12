@@ -12,9 +12,11 @@ layout: null
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {% for post in site.posts %}
+    {% unless post.tags contains 'newsdump' %}
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.summary | default: post.excerpt | xml_escape }}</description>
+	<title>{{ post.title | xml_escape }}</title>
+	{% assign desc = (post.summary | default: post.excerpt) %} 
+        <description>{{ desc | xml_escape }}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
@@ -25,6 +27,7 @@ layout: null
         <category>{{ cat | xml_escape }}</category>
         {% endfor %}
       </item>
+    {% endunless %}  
     {% endfor %}
   </channel>
 </rss>
