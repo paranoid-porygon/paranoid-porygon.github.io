@@ -66,9 +66,9 @@ p {
   padding: 10px;
 }
 
-a:link {
+a:link, a:visited {
   color: cyan;
 }
-a:visited {
+a:hover, a:active {
   color: hotpink;
 }
