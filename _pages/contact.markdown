@@ -7,10 +7,9 @@ permalink: /contact/
 
 # Email
 
-[paranoid-porygon@proton.me](mailto:paranoid-porygon%40proton.me)
+[dubious-disc.blog@proton.me](mailto:dubious-disc.blog%40proton.me)
 
 
 # Social Networks
-## Microblogging
 
 🦋 [ParanoidPorygon.bsky.social](https://ParanoidPorygon.bsky.social)
