@@ -13,6 +13,32 @@ In short: you will need a domain purchased through a reputable registrar, a GitH
 
 <!--excerpt-->
 
+# Resources and Tutorials that I referenced
+
+# Short summary of the process
+
+## Register a domain name
+
+## Setup Jekyll dev environment
+
+### Install Ruby
+
+### Install package manager
+
+### Install Jekyll package
+
+### Create new site
+
+## Create or log in to a GitHub account
+
+### Create a repository for your Jekyll site
+
+### Setup DNS for your site
+
+### Push local Jekyll app to remote repo you just made
+
+ 
+
 # TODO
 
 ## Migrate off of GitHub
