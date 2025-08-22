@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Homelab - Part 00: Why, Current Hardware, and Planned Software"
-summary: "Introduction to my homelab project"
+title:  "Homelab - Part 00"
+summary: "Introduction to my homelab project: Why, Current Hardware, and Planned Software"
 date: 2025-08-21  
 tags: [projects, homelab]
 published: true
@@ -9,7 +9,7 @@ published: true
 
 In 2020 shortly after the US entered a quasi-lockdown state due to COVID-19, my employer laid off my entire team for spurious reasons. My boss, also laid off, had decided by that point (probably due to America's cultural aversion to taking COVID seriously) to move back to Canada. During the process of packing for his move, he bequeathed me an old Dell Poweredge T420 that he had been loaning to our former employer up until his termination. With 16 2.5" drive bays, I knew immediately that this would become a Network Attached Storage (NAS) server for my home; having messed around with FreeNAS back in 2015, I had some familiarity with what a self-hosted storage/media server had to offer and missed having one. However, the ongoing pandemic lockdown, tumultuous job hunt, and need to move to a new home multiple times over the subsequent four years saw me postpone that project.
 
-Now that I'm in a stable housing and employment situation, and given the rapid enshittification of cloud services over the last five years (and especially the capituation of certain big tech companies to the whims of our nascent authoritarian government), the time has come to not just spin up a NAS on this old Poweredge but to build out an entire homelab around it with the express goal of divesting from as many non-selfhosted services for which I can find open source/libre self-hosted alternatives.
+Now that I'm in a stable housing and employment situation, and given the rapid enshittification of cloud services over the last five years (and especially [the capituation of certain big tech companies to the whims of our nascent authoritarian government][technofascism]), the time has come to not just spin up a NAS on this old Poweredge but to build out an entire homelab around it with the express goal of divesting from as many non-selfhosted services for which I can find open source/libre self-hosted alternatives.
 
 <!--excerpt-->
 
@@ -30,7 +30,7 @@ In building out *my* homelab, these were the software and services that I planne
 * resleeving my gaming computer as a rack-mounted machine
 * any necessary network devices to support the above
 * an Uninterruptible Power Supply (UPS) that could provide normalized power and battery backup to the above
-* a transfer switch to allow for switching power to the devices between the UPS and the wall outlet during mbattery maintenance
+* a transfer switch to allow for switching power to the devices between the UPS and the wall outlet during battery maintenance
 
 # Prior Attempts
 
@@ -52,7 +52,7 @@ Rack acquired, I sketched up a preliminary layout of both the front and back of 
 
 -: possible future purchases
 
-| 25U Planned Config                  | row | Back                                   |
+| Front of Rack                       | row | Back of Rack                           |
 |-------------------------------------|-----|----------------------------------------|
 | + 1U: Firewall (OPNsense)           | 01  | + 2U: Shelf for modem, hue bridge, WAP |
 | + 1U: MikroTik 310 <> MikroTik 112  | 02  | + ^^                                   |
@@ -88,7 +88,7 @@ From top to bottom, here's what I installed and why. I'm only going to do a curs
 
 ### OPNsense Firewall
 
-To replace my PFsense firewall from 7 years ago, I completely rebuilt the machine (this time with a nifty SuperMicro case that rotates the motherboard IO ports to face frontwards!) using the OPNsense fork of PFsense. I don't have enough knowledge of firewalls and networking at this point to have any strong preference besides that OPNsense is a community open source fork after PFsense went proprietary. PFsense is supposedly better, but I'm not skilled enough to utilize the features that make it such and prefer to use software that doesn't require me to rely on the developer to remain benevolent when they could instead just simply open source their project in keeping with the zero trust security paradigm.
+To replace my PFsense firewall from 7 years ago, I completely rebuilt the machine (this time with a nifty SuperMicro case that rotates the motherboard IO ports to face frontwards!) using the OPNsense fork of PFsense. I don't have enough knowledge of firewalls and networking at this point to have any strong preference [besides that OPNsense is a community open source fork after PFsense went proprietary][pfsense-vs-opnsense]. PFsense is supposedly better, but I'm not skilled enough to utilize the features that make it such and prefer to use software that doesn't require me to rely on the developer to remain benevolent when they could instead just simply open source their project in keeping with the zero trust security paradigm.
 
 The hardware in the firewall is nothing special: older Intel dual core chip, 8Gb ram, mini-ITX motherboard. 
 
@@ -100,17 +100,21 @@ Most folks recommending home networking devices to prosumers will usually advise
 
 Since I am an obstinate piece of shit who never turns down an opportunity to do things the hardest way possible, I went all-in on the MikroTik ecosystem. In addition to granting more granular control over a network than Ubiquiti and using less power than a outdated Brocade or Cisco switch, MikroTik doesn't require users to link ther switches to a cloud service like Ubiquiti apparently does.
 
-#### Mikrotik 310
+#### Mikrotik 310-8G+2S+IN
 
 This is an 8-port 2.5Gbe managed switch that includes 2 SFP+ ports. There are a couple of things I don't like about it, such as how its power supply plugs into the front as opposed to the rear and there's no means of redundant power like other MikroTik devices at a similar price point and form factor, however it is their most reasonably priced 2.5Gbe switch at the time of writing this. While my home internet is currently only 0.5Gbps down and up, I wanted to both futureproof myself in case I decide to upgrade and allow for fast wired LAN data transfers to and from the NAS.
 
-#### MikroTik 112
+#### MikroTik 112-8P-4S-IN
 
-This is an old generation managed switch; I saw a handful of Reddit users cautioning against buying any 100-series MikroTik devices since they have been phased out and are allegedly notorious for causing network issues. All that said, I ultimately purchased it because:
+This is an older generation managed switch; I saw a handful of Reddit users cautioning against buying any 100-series MikroTik devices since they have been phased out and are allegedly notorious for causing network issues. All that said, I ultimately purchased it because:
+
 1) it was the lowest-priced MikroTik managed switch that I saw that supported PoE and 1Gbe speeds
-2) it was the correct size to place next to my MikroTik 310 in order to completel fill a single rack unit on my server rack
 
-#### MikroTik WAPx
+2) it was the correct size to place next to my MikroTik 310 in order to completely fill a single rack unit on my server rack
+
+I had to buy a special mounting coupler from Amazon to get both of these switches on the same row, and the used CRS112 I got didn't have mounting hardware and there was only one retailer I cound find stateside that sold it: [rOc-nOc.com][roc-noc].
+
+#### MikroTik wAP ax
 
 I purchased a wireless access point from MikroTik in order to have a consisten user experience when managing my network devices. Unfortunately it wasn't until after I purchased it that I discovered that MikroTik has notoriously not-great wirless devices and that their wired switches are their bread-and-butter. Oh well.
 
@@ -199,3 +203,9 @@ In keeping with "critical infrastructure should have dedicated hardware", I will
 This has been my big project for the past few months and I'm glad I finally pulled the trigger on it. I intend to write out more verbose documentation for each piece of the homelab, partially to share with others but mostly for my own documentation so that I can replicate this in the future if I have to. I will update this post with links to the docs for each respective pice of hardware as I write them. I might also make all these docs into static links in the sidebar in the future, but I will revisit that once they are finished.
 
 If you have any questions, tips, warnings, or recommendations, please use the reply link at the bottom of the page to send me a private response!
+
+[pfsense-vs-opnsense]: https://www.xda-developers.com/why-use-opnsense-over-pfsense-dont-trust-netgate/
+[roc-noc]: https://www.roc-noc.com/
+[technofascism]: https://www.theverge.com/2025/1/16/24345174/tech-leaders-companies-support-donald-trump-presidency
+
+
