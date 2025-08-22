@@ -84,7 +84,11 @@ Rack acquired, I sketched up a preliminary layout of both the front and back of 
 
 From top to bottom, here's what I installed and why. I'm only going to do a cursory explanation of my software choices for the sake of this post; I will likely follow up with future blog posts outlining my rationale and specific configurations for each machine, VM, or service.
 
-### OPNsense Firewall
+Additionally, I will note next to each item if I purchased it new, used, refurb, or a mix of conditions if I built it myself.
+
+### OPNsense Firewall 
+
+**Purchase Condition:** mixed; already owned some pieces purchased new several years ago, purchased the case used, mobo used, NIC new, some adapter cables new, CPU fan used
 
 To replace my PFsense firewall from 7 years ago, I completely rebuilt the machine (this time with a nifty SuperMicro case that rotates the motherboard IO ports to face frontwards!) using the OPNsense fork of PFsense. I don't have enough knowledge of firewalls and networking at this point to have any strong preference [besides that OPNsense is a community open source fork after PFsense went proprietary][pfsense-vs-opnsense]. PFsense is supposedly better, but I'm not skilled enough to utilize the features that make it such and prefer to use software that doesn't require me to rely on the developer to remain benevolent when they could instead just simply open source their project in keeping with the zero trust security paradigm.
 
@@ -98,11 +102,15 @@ Most folks recommending home networking devices to prosumers will usually advise
 
 Since I am an obstinate piece of shit who never turns down an opportunity to do things the hardest way possible, I went all-in on the MikroTik ecosystem. In addition to granting more granular control over a network than Ubiquiti and using less power than a outdated Brocade or Cisco switch, MikroTik doesn't require users to link ther switches to a cloud service like Ubiquiti apparently does.
 
-#### Mikrotik 310-8G+2S+IN
+#### Mikrotik CRS310-8G+2S+IN
+
+**Purchase Condition:** new but discounted
 
 This is an 8-port 2.5Gbe managed switch that includes 2 SFP+ ports. There are a couple of things I don't like about it, such as how its power supply plugs into the front as opposed to the rear and there's no means of redundant power like other MikroTik devices at a similar price point and form factor, however it is their most reasonably priced 2.5Gbe switch at the time of writing this. While my home internet is currently only 0.5Gbps down and up, I wanted to both futureproof myself in case I decide to upgrade and allow for fast wired LAN data transfers to and from the NAS.
 
-#### MikroTik 112-8P-4S-IN
+#### MikroTik CRS112-8P-4S-IN
+
+**Purchase Condition:** used; missing AC adapter and brackets and had to purchase new replacements
 
 This is an older generation managed switch; I saw a handful of Reddit users cautioning against buying any 100-series MikroTik devices since they have been phased out and are allegedly notorious for causing network issues. All that said, I ultimately purchased it because:
 
@@ -114,9 +122,13 @@ I had to buy a special mounting coupler from Amazon to get both of these switche
 
 #### MikroTik wAP ax
 
+**Purchase Condition:** new
+
 I purchased a wireless access point from MikroTik in order to have a consisten user experience when managing my network devices. Unfortunately it wasn't until after I purchased it that I discovered that MikroTik has notoriously not-great wirless devices and that their wired switches are their bread-and-butter. Oh well.
 
 ### Gaming PC
+
+**Purchase Condition:** mixed; purchased used mobo, CPU, and RAM from a friend; new NVME drive; refurb GPU; new AIO CPU cooler; PSU that I purchased new circa 2016; new case 
 
 With the impending sunset of Windows 10 in October and some extremely unsettling features and poor performance in Windows 11, and given the recent and enormous advances in gaming on Linux thanks to Valve throwing their weight behind it, I decided last year to make a hard pivot to Linux on all my personal devices, including my gaming PC. I settled on the Bazzite distro for this machine; a fork of Fedora, its aim is to provide a similar experience to playing on a Steam Deck but on the desktop. 
 
@@ -131,6 +143,8 @@ While I technically had until October to get this PC put together (well, October
 After putting this thing together and using it for around two weeks playing a variety of old and new single- and multi-player games designed for Windows, I have to say that my expectations were vastly exceeded. I could not believe how well games run on it, or how the Bazzite team packed everything you need, and nothing more, to play games on Linux. It is an utterly phenomenal experience, and since my gaming PC was the final Windows holdout, Bazzite allowed me to finally make the full pivot to Linux on all my bare metal machines.
 
 ### Dell Poweredge T420
+
+**Purchased Condition:** original unit was a used gift from my old boss; NAS HDDs were refurbs; VM SSDs were new; OS drives were new; additional drive sleds were new; upgraded RAM was refurb (I think)
 
 The progenitor of this homelab project features two CPU sockets and support for up to 392Gb of RAM, two redundant power supplies, two ethernet controllers supporting 1Gbe speed, 16 hot swappable 2.5" drive bays attached to a RAID controller and two more internal SATA headers. All of that to me screamed "hypervisor". This thing was meant to host VMs.
 
@@ -166,13 +180,19 @@ I want to be clear: I went a little overboard here and I think I regret it. The 
 
 #### APC Transfer Switch
 
+**Purchased Condition:** used
+
 A transfer switch is basically a power strip that allows for two simultaneous input sources (usually a UPS and wall power; I spoke to a Reddit user who described how plugging it in to two different line-interactive UPS's can cause bizarre problems and is not advisable). This is a very useful tool if you need to temporarily switch your server rack to wall power while you do battery maintenance, and I regret to inform you that this transfer switch already came in handy.
 
 #### APC 1500VA UPS
 
+**Purchased Condition:** used
+
 I was very fortunate to snag an APC SMX1500RM2U from someone local using Facebook Marketplace. It was in great condition, the batteries were relatively recently installed, and I got a great deal. Honestly, I probably should have stopped here.
 
 #### APC Battery Expansions
+
+**Purchased Condition:** new old stock; these should have been sold without the batteries as they were not safe to use and was erroneously marked as new
 
 Unfortunately I got a little greedy in terms of batteries and ordered **two** battery expansions for my UPS. I found them both on eBay from the same seller for what I thought was a great deal: ~$400 each for a new, unused expansion bay.
 
