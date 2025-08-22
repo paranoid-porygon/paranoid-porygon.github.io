@@ -11,8 +11,6 @@ In 2020 shortly after the US entered a quasi-lockdown state due to COVID-19, my 
 
 Now that I'm in a stable housing and employment situation, and given the rapid enshittification of cloud services over the last five years (and especially [the capituation of certain big tech companies to the whims of our nascent authoritarian government][technofascism]), the time has come to not just spin up a NAS on this old Poweredge but to build out an entire homelab around it with the express goal of divesting from as many non-selfhosted services for which I can find open source/libre self-hosted alternatives.
 
-<!--excerpt-->
-
 # Homelab Goals
 
 The general idea behind homelabbing is collecting various servers, networking devices, and other peripherals to serve as a playground meant for experimentation and self-education for various IT concepts and practices. Most people who homelab opt to purchase used/retired equipment that previously belonged to small businesses both to save money and to minimize what would otherwise become e-waste.
