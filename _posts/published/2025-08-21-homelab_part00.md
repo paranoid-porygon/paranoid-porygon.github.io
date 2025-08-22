@@ -49,6 +49,7 @@ After a couple of months of preliminary research and knowing that I planned to m
 Rack acquired, I sketched up a preliminary layout of both the front and back of the rack with the devices I planned to use. As I purchased needed devices and refined my needs, I landed on the below layout:
 
 +: already acquired and installed
+
 -: possible future purchases
 
 | 25U Planned Config                  | row | Back                                   |
