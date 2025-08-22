@@ -2,9 +2,9 @@
 layout: post
 title:  "Homelab - Part 00: Why, Current Hardware, and Planned Software"
 summary: "Introduction to my homelab project"
-date:   
-tags: [homelab]
-published: false
+date: 2025-08-21  
+tags: [projects, homelab]
+published: true
 ---
 
 In 2020 shortly after the US entered a quasi-lockdown state due to COVID-19, my employer laid off my entire team for spurious reasons. My boss, also laid off, had decided by that point (probably due to America's cultural aversion to taking COVID seriously) to move back to Canada. During the process of packing for his move, he bequeathed me an old Dell Poweredge T420 that he had been loaning to our former employer up until his termination. With 16 2.5" drive bays, I knew immediately that this would become a Network Attached Storage (NAS) server for my home; having messed around with FreeNAS back in 2015, I had some familiarity with what a self-hosted storage/media server had to offer and missed having one. However, the ongoing pandemic lockdown, tumultuous job hunt, and need to move to a new home multiple times over the subsequent four years saw me postpone that project.
@@ -60,7 +60,7 @@ Rack acquired, I sketched up a preliminary layout of both the front and back of 
 | - 1U: IP Camera Server, aka NVR     | 05  |                                        |
 | - 2U: JBOD / NAS                    | 06  |                                        |
 | - ^^                                | 07  | - 1U: Power Strip                      |
-| + 5U: Gaming PC (Bazzitei)          | 08  | + 5U: Gaming PC                        |
+| + 5U: Gaming PC (Bazzite)           | 08  | + 5U: Gaming PC                        |
 | + ^^                                | 09  | + ^^                                   |
 | + ^^^                               | 10  | + ^^^                                  |
 | + ^^^^                              | 11  | + ^^^^                                 |
@@ -87,9 +87,9 @@ From top to bottom, here's what I installed and why. I'm only going to do a curs
 
 ### OPNsense Firewall
 
-To replace my PFsense firewall from 7 years ago, I completely rebuilt the machine (this time with a nifty SuperMicro case that rotates the motherboard IO ports to face frontwards!) this time using the OPNsense fork. I don't have enough knowledge of firewalls and networking at this point to have any strong preference besides that OPNsense is a community open source fork after PFsense went proprietary. PFsense is supposedly better, but I'm not skilled enough to utilize the features that make it such and prefer to use software that doesn't require me to rely on the developer to remain benevolent when they could instead just simply open source their project in keeping with the zero trust security paradigm.
+To replace my PFsense firewall from 7 years ago, I completely rebuilt the machine (this time with a nifty SuperMicro case that rotates the motherboard IO ports to face frontwards!) using the OPNsense fork of PFsense. I don't have enough knowledge of firewalls and networking at this point to have any strong preference besides that OPNsense is a community open source fork after PFsense went proprietary. PFsense is supposedly better, but I'm not skilled enough to utilize the features that make it such and prefer to use software that doesn't require me to rely on the developer to remain benevolent when they could instead just simply open source their project in keeping with the zero trust security paradigm.
 
-The hardware in the firewall is nothing special: older Intel dual core chip, 4Gb ram, mini-ITX motherboard. 
+The hardware in the firewall is nothing special: older Intel dual core chip, 8Gb ram, mini-ITX motherboard. 
 
 The only remotely interesting internal component is a quad-2.5Gbe NIC that I installed. OPNsense does not play nice with Realtek NIC chipsets so I went with an Intel I226-V ethernet controller. I tried my absolute damnedest to find an ethernet controller that isn't made in mainland China (using Chinese network devices, motherboards, and storage scares the absolute shit out of me), however I couldn't find anything that was made elsewhere (ideally Taiwan), so I settled for the one device I could find on Amazon but *not* on AliExpress. I'll just have to monitor network traffic to verify that the NIC isn't compromised in any way.
 
@@ -137,13 +137,64 @@ I know it's in vogue for homelabbers to build a cluster of Raspberry PIs or Leno
 3) I have run into compatability problems with arm chipsets in the past and instead try to stick with Intel whenever possible
 4) I am skeptical that it's easiser to manage a cluster over a single machine
 
-I was able to purchase a sliding rail that allowed me to mount the machien to the server rack (it was cheaper on Amazon than on eBay, would you believe). My only regret was blindly picking a spot on the rack to start mounting things (this was the first addition) because now there's an awkward space between the Poweredge and the Automated Transfer Switch.
+I was able to purchase a sliding rail that allowed me to mount the machien to the server rack (it was cheaper on Amazon than on eBay, would you believe). My only regret was blindly picking a spot on the rack to start mounting things (this was the first addition) because now there's an awkward space between the Poweredge and the Automated Transfer Switch below it.
 
+The Poweredge is currently running Proxmox, a hypervisor that is just meant as a tool for easily spinning up and managing virtual machines. So far, I am extremely impressed with it and wish I had tried it out years ago rather than running all the VMs I needed on my desktop inside VirtualBox.
+
+Proxmox will act as my playground for different self-hosted services and servers. At the moment, the only VMs I have running on it are a TrueNAS (the successor to FreeNAS) Core image that acts as my NAS (and also does nested virtualization of some Docker containers for NAS-adjacent services like SyncThing), and also a Windows 11 VM just so that I have a working copy of Windows in case I absolutely need one. I plan to add the following services at some point in the future:
+* HomeAssistant
+* PiHole or another private DNS
+* Plex or another media server
+* a bittorrent client, torrent file finder, and automatic media organizer like I had set up many years ago
+* a private LLM
+* some sort of note taking / knowledgebase app to replace VimWiki that I currently use
+* dedicated servers for games (Palworld, DayZ)
+* a library app / Goodreads replacement to track my books and other physical media
+* a private search engine
+* a network video recorder (which will eventually be spun off to bare metal hardware of its own)
+* an Immich instance
+* an SMTP server (this is not a high priority; email is a very intensive service that requires constant uptime and trust of the other party)
+
+As far as hardware upgrades, I've only upgraded the RAM at this point to 96Gb for the single 8-core processor that I have. Eventually, I will upgrade both CPU sockets to the maximum 10-core proc that is compatible with this socket, and give both processors 96Gb of RAM.
+
+### Power Stack
+
+I want to be clear: I went a little overboard here and I think I regret it. The devices currently on this rack have only ever used maybe 40% of my UPS's total output capacity, so perhaps the two external battery expansions were overkill. But if a prolonged power outage occurs and I need to plug in, say, my CPAP machine overnight, these batteries will get me there.
+
+#### APC Transfer Switch
+
+A transfer switch is basically a power strip that allows for two simultaneous input sources (usually a UPS and wall power; I spoke to a Reddit user who described how plugging it in to two different line-interactive UPS's can cause bizarre problems and is not advisable). This is a very useful tool if you need to temporarily switch your server rack to wall power while you do battery maintenance, and I regret to inform you that this transfer switch already came in handy.
+
+#### APC 1500VA UPS
+
+I was very fortunate to snag an APC SMX1500RM2U from someone local using Facebook Marketplace. It was in great condition, the batteries were relatively recently installed, and I got a great deal. Honestly, I probably should have stopped here.
+
+#### APC Battery Expansions
+
+Unfortunately I got a little greedy in terms of batteries and ordered **two** battery expansions for my UPS. I found them both on eBay from the same seller for what I thought was a great deal: ~$400 each for a new, unused expansion bay.
+
+The problem was that, while these were in fact unused and factory sealed, the batteries inside were from 2017; whether or not that counts as new became an argument between myself and the seller. I had to laern the hard way that sealed lead acid (SLA) batteries **need** to be changed out every three years, even if they are unused, otherwise if you attempt to use them, there is a high likelihood that the batteries will physically expand in such a way that damages their sleeve *and* causes them to give off a toxic gas. This happened with **both** units that I purchased, and I was lucky that I happened to be home both times this happened (roughly a month into owning and using them), otherwise I'd have come home to a dead dog. The gas was supposedly hydrogen sulfate which is 1) toxic, and 2) allegedly smells like rotten eggs, but both I and my partner think that it smells completely different and there is no close comparison that I can give you; it just smells like a really bad chemical leak.
+
+I used this snafu as an opportunity to just go ahead and replace all the batteries in the whole stack just to be absolutely certain that everything in there was new and reputable. Since there are three units (UPS, expansion#1 and expansion#2), I started by just replacing the UPS batteries and will keep each expansion bay decomissioned until 2026 and 2027, respectively. Since UPS batteries need to be replaced every three years, I figured I would set myself up on an annual cadence for battery replacement; every August, something on the battery stack will need to get its batteries replaced, and I used a label maker to put the month and yaer on each device for when they will next need new batteries.
+
+Speaking of batteries, there are a bunch of cheap "mystery meat" batteries that I found online that are sold as packs for the SMX1500. But given my already negative experience with batteries, I decided to leave nothing to chance and instead just went to my local battery store and got four Duracel SLA batteries that matchd the voltage and amp hours listed on APC's website for their first-party replacement batteries. The only odd thing is that, since replaceing those batteries and running successful diagnostics with no warnings, I get a periodic beep from the UPS almost hourly that didn't happen prior, and the logs are not particularly informative. Either way, I leave the office door closed now whenever I leave the house or go to bed so that any fumes that start spewing out of my server rack stay mostly trapped there.
 
 # Future Additions
 
-#### SFP+ switch
+## SFP+ switch
 
 I haven't purchased this yet, and will only do so if I decide that very high local network speed is worth the investment. This will also necessitate getting an SFP+ NIC for my NAS, ProxMox server, gaming PC, workstation, basically anything that would benefit from blisteringly fast data transfers.
 
+## Network Video Recorder (NVR)
 
+Like I mentioned above, I plan to replace my Nest cameras with locally-backed up IP cameras and initially plan to implement/test this on the Proxmox server. Once it is set up to my liking and I know how to configure the recording software, I will spin this off to dedicated hardware; my thinking is that critical infrastructure (and sercurity cameras are critical) should have dedicated hardware so that if something goes wrong, there are fewer steps required to identify and fix the issue, whereas virtualizing it introduces additional points of failure that increase investigation time.
+
+## Hardware NAS and Just a Bunch of Disks (JBOD)
+
+In keeping with "critical infrastructure should have dedicated hardware", I will eventually move my NAS off of the Proxmox cluster and onto it's own dedicated server, ideally one attached to a JBOD that supports 3.5" HDDs so I can increase the storage capacity.
+
+# Conclusion and Followup
+
+This has been my big project for the past few months and I'm glad I finally pulled the trigger on it. I intend to write out more verbose documentation for each piece of the homelab, partially to share with others but mostly for my own documentation so that I can replicate this in the future if I have to. I will update this post with links to the docs for each respective pice of hardware as I write them. I might also make all these docs into static links in the sidebar in the future, but I will revisit that once they are finished.
+
+If you have any questions, tips, warnings, or recommendations, please use the reply link at the bottom of the page to send me a private response!
