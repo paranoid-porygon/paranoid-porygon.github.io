@@ -7,7 +7,7 @@ permalink: /contact/
 
 # Email
 
-[dubious-disc.blog@proton.me](mailto:dubious-disc.blog%40proton.me)
+[Email Me](mailto:ddb-comment.undesired173@passmail.net)
 
 
 # Social Networks
