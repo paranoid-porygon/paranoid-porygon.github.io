@@ -4,7 +4,7 @@ title:  "Gear Review: Hayleay Strategic Flatpack Plus"
 summary: "The Hayley Strategic Flatpack sucks and you shouldn't even consider buyign one"
 date: 2025-08-25
 tags: [gun stuff, gear reviews]
-published: false
+published: true
 ---
 
 A couple years ago, one of my Instagram mutuals posted that they were selling a limited edition set of both the Hayley Strategic D3CRM and Flatpack Plus in M81 Woodland camo. I purchased them with the expectation of building a full hike-and-shoot/competition/goofing around kit around them, entirely in M81 camo. Several months later, I finally did exactly that. This allowed me to test both the D3CRM and the Flatpack Plus, the latter of which is the focus of this review.
