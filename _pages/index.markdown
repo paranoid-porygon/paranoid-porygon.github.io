@@ -12,7 +12,7 @@ permalink: /
 # Blog
 {% increment blogcount %}
 {% for post in site.posts %}
-  {% if blogcount < '5' %}
+  {% if blogcount < 5 %}
     {% unless post.tags contains 'newsdump' %}
       {% increment blogcount %}
 <h2><a href="{{ post.url }}" class="post-preview">{{ post.title }}</a></h2>
@@ -24,7 +24,7 @@ permalink: /
 # Latest News
 {% increment newscount %}
 {% for post in site.posts %}
-  {% if newscount < '1' %}
+  {% if newscount < 1 %}
     {% if post.tags contains 'newsdump' %}
       {% increment newscount %}
 <h2><a href="{{ post.url }}" class="post-preview">{{ post.date | date_to_string }}</a></h2> 
