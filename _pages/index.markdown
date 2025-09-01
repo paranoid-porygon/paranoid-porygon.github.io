@@ -8,11 +8,11 @@ permalink: /
 ---
 
 # Blog
-{% assign blogcount = '0' %}
+{% increment blogcount %}
 {% for post in site.posts %}
   {% if blogcount < '5' %}
     {% unless post.tags contains 'newsdump' %}
-      {% capture blogcount %}{% increment blogcount %}{% endcapture %}
+      {% increment blogcount %}
 <h2><a href="{{ post.url }}" class="post-preview">{{ post.title }}</a></h2>
 {{ post.summary | default: post.excerpt }}
     {% endunless %}
@@ -21,11 +21,11 @@ permalink: /
 {% endfor %}
 
 # Latest News
-{% assign newscount = '0' %}
+{% increment newscount %}
 {% for post in site.posts %}
   {% if newscount < '1' %}
     {% if post.tags contains 'newsdump' %}
-      {% capture newscount %}{% increment newscount %}{% endcapture %}
+      {% increment newscount %}
 <h2><a href="{{ post.url }}" class="post-preview">{{ post.date | date_to_string }}</a></h2> 
 {{ post.summary | default: post.excerpt }}
     {% endif %}
