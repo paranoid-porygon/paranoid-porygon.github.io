@@ -10,7 +10,7 @@ permalink: /
 # Blog
 {% for post in site.posts limit:5 %}
   {% unless post.tags contains 'newsdump' %}
-<h2><a href="{{ post.url }}" class="post-preview">{{ post.title }}</a> - {{ post.date | date_to_string }}</h2>
+<h2><a href="{{ post.url }}" class="post-preview">{{ post.title }}</a></h2>
 {{ post.summary | default: post.excerpt }}
   {% endunless %}
 {% endfor %}
@@ -22,3 +22,5 @@ permalink: /
 {{ post.summary | default: post.excerpt }}
   {% endif %}
 {% endfor %}
+
+
