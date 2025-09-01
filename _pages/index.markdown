@@ -7,6 +7,8 @@ title: Home
 permalink: /
 ---
 
+![i use arch btw](/assets/badges/archlinux.gif)
+
 # Blog
 {% increment blogcount %}
 {% for post in site.posts %}
