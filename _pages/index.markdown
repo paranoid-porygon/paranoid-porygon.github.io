@@ -9,6 +9,7 @@ permalink: /
 
 # Blog
 {% increment blogcount %}
+initial count {{ blogcount }}
 {% for post in site.posts %}
   {% if blogcount < '5' %}
     {% unless post.tags contains 'newsdump' %}
@@ -22,6 +23,7 @@ permalink: /
 
 # Latest News
 {% increment newscount %}
+initial count {{ newscount }}
 {% for post in site.posts %}
   {% if newscount < '1' %}
     {% if post.tags contains 'newsdump' %}
