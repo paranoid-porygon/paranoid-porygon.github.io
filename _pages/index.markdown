@@ -17,6 +17,7 @@ permalink: /
 {{ post.summary | default: post.excerpt }}
     {% endunless %}
   {% endif %}
+{{ blogcount }}
 {% endfor %}
 
 # Latest News
@@ -29,6 +30,7 @@ permalink: /
 {{ post.summary | default: post.excerpt }}
     {% endif %}
   {% endif %}
+{{ newscount }}
 {% endfor %}
 
 
