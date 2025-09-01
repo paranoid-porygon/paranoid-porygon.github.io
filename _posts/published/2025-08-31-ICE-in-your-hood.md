@@ -12,11 +12,11 @@ If you're a liberal, libertarian, or leftist, chances are the prospect of masked
 
 This post will become a dumping ground for news about ICE's activities and resources advising on how to frustrate their efforts. I will update it periodically.
 
-# How to Fight Them
+## How to Fight Them
 
 [What to do when you see ICE in your neighborhood](https://theintercept.com/2025/07/12/ice-neighborhood-watch-la/)
 
-# ICE's activities
+## ICE's activities
 
 [Permanent resident and mother of four arrested by ICE for 10 days over decades-old misdemeanor which is no longer a crime, was not told reason for arrest until after release, denied care for diabetes, asthma while in custody leading to two hospitalizations, repeatedly shuffled between detention centers including one for men only, released 30 miles from home with no phone](https://www.masslive.com/news/2025/08/mass-mom-detained-by-ice-for-10-days-over-decades-old-minor-marijuana-charge.html)
 
