@@ -13,8 +13,8 @@ permalink: /
   {% if blogcount < '5' %}
     {% unless post.tags contains 'newsdump' %}
       {% capture blogcount %}{% increment blogcount %}{% endcapture %}
-      <h2><a href="{{ post.url }}" class="post-preview">{{ post.title }}</a></h2>
-      {{ post.summary | default: post.excerpt }}
+<h2><a href="{{ post.url }}" class="post-preview">{{ post.title }}</a></h2>
+{{ post.summary | default: post.excerpt }}
     {% endunless %}
   {% endif %}
 {% endfor %}
@@ -25,8 +25,8 @@ permalink: /
   {% if newscount < '1' %}
     {% if post.tags contains 'newsdump' %}
       {% capture newscount %}{% increment newscount %}{% endcapture %}
-      <h2><a href="{{ post.url }}" class="post-preview">{{ post.date | date_to_string }}</a></h2> 
-      {{ post.summary | default: post.excerpt }}
+<h2><a href="{{ post.url }}" class="post-preview">{{ post.date | date_to_string }}</a></h2> 
+{{ post.summary | default: post.excerpt }}
     {% endif %}
   {% endif %}
 {% endfor %}
