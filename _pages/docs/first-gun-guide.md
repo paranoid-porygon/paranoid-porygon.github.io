@@ -12,7 +12,7 @@ permalink: /docs/first-gun-guide
 
 I want to start by saying that I *do not* believe that everyone should own a gun. A cursory look at the statistics about firearm ownership shows that [more guns is correlated with more death](https://www.hsph.harvard.edu/hicrc/firearms-research/guns-and-death/), and a more nuanced dive into the available data shows where and why. Firearms are [the most common and most successful means of suicide](https://sprc.org/scope/means-suicide#:~:text=Firearms%20are%20the%20most%20common,followed%20by%20suffocation%20and%20poisoning.&text=Firearms%20are%20used%20in%20over%20half%20of%20all%20suicides%20among%20males.&text=In%202019%2C%20firearms%20were%20the,means%20of%20suicide%20for%20women.) in the US, affording the least opportunity for intervention, abortion, or survival than the other most common means. Hundreds of accidental firearm deaths occur every year, with [victims being primarily younger than 24 years old](https://www.aftermath.com/content/accidental-shooting-deaths-statistics/). In the absence of any laws or restrictions to mitigate the prevalence of firearm-related suicides or accidents, it falls upon the prospective firearm owner to sincerely and accurately [assess whether or not it is a good idea](#safe-storage) for them to purchase a gun, and if not to consider [alternate means](#non-lethal-options-and-preventative-measures) of home and personal defense. Anyone who tells you otherwise is likely trying to make money off you and doesn’t care about your safety.
 
-If after honestly adjudicating whether or not you should get a firearm for self-defense you believe that you are safe to purchase one, this document outlines my recommendations as to [what firearm(s) you should purchase](#what-gun-should-i-get?), what [accessories](#accessories) you need to effectively utilize your weapon, what to look for in a [trainer](#training), and how to [practice](#practice) using your weapon.
+If after honestly adjudicating whether or not you should get a firearm for self-defense you believe that you are safe to purchase one, this document outlines my recommendations as to [what firearm(s) you should purchase](#what-gun-should-i-get), what [accessories](#accessories) you need to effectively utilize your weapon, what to look for in a [trainer](#training), and how to [practice](#practice) using your weapon.
 
 Additionally, I cover other things you need to consider in deciding to own a firearm, such as [safe storage](#safe-storage) of the weapon, mandatory [first-aid training](#first-aid) (even if you decide against purchasing a firearm), minimizing [lead exposure](#lead-exposure) while shooting for practice or recreation, [licensure](#weapons-carry-permit), and [legal considerations](#the-law).
 
@@ -73,7 +73,7 @@ But lead poisoning is preventable. When using an indoor gun range, wearing a [re
 
 # Recommendations
 
-## What gun should I get? {#what-gun-should-i-get?}
+## What gun should I get? {#what-gun-should-i-get}
 
 Assuming you followed my above recommendations to assess if you are safe to own and prepared to safely store and handle a firearm, let’s talk about what gun to get. The simplest answer to this question is: “**a Glock 19**”. The more complicated answer is that it depends on your needs, your hand size and shape, and how much time you are willing to dedicate to training and practice.
 
