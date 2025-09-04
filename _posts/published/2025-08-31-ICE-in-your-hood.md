@@ -2,7 +2,7 @@
 layout: post
 title:  "What to do when you see ICE in your neighborhood"
 date: 2025-08-31  
-tags: [ICE, antifascism, community defense]
+tags: [ICE, it can happen here]
 published: true
 ---
 
