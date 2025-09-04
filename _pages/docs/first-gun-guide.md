@@ -151,8 +151,6 @@ If your gun at rest isn’t safe without a manually engaged safety selector, I a
 
 All that said, there are occasionally defects or flaws in certain pistol designs, even [striker-fired pistols](https://www.wcvb.com/article/sig-sauer-hit-with-new-lawsuit-5-investigates/42159156), where a gun that is otherwise safely stored or holstered might go off if accidentally dropped. Handguns usually go through extensive “drop safe” testing before being brought to market, but unfortunately consumers are more numerous than quality control testers so issues might not be identified until after going up for sale. For this reason, make sure to check if there are reports of catastrophic safety issues or recalls on a handgun you intend to purchase. **A good rule of thumb is to purchase a gun from a reputable manufacturer and of a model that has been around for a while** rather than whatever the new hotness is. 
 
-#### 
-
 #### Are you telling me I should just get a Glock 19?
 
 Yes, I am. It’s a semi-automatic striker-fired compact 9mm pistol from a reputable manufacturer that has been used in combat and self-defense for decades, and has the largest availability of aftermarket accessories (including holsters, lights, and optics) and replacement parts of any firearm in history. It is the most used pistol in the world for a reason.
