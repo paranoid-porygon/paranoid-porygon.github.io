@@ -1,6 +1,6 @@
 // Add "Contents" header to TOC
 #markdown-toc::before {
-  content: "CONTENTS";
+  content: "DOCUMENT OUTLINE";
   font-weight: bold;
 }
 
@@ -12,6 +12,7 @@
   height: 100%;
   width: 225px;
   overflow-y: scroll;
+  white-space: nowrap; //disables word wrap and forces horizontal scroll instead
 }
 
 
