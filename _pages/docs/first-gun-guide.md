@@ -81,7 +81,7 @@ Assuming you followed my above recommendations to assess if you are safe to own 
 
 **No**. 
 
-Despite what you might hear from hunters, Fudds (old-fashioned gun owners that resemble Elmer Fudd), or former and [current Presidents of the United States](https://en.wikipedia.org/wiki/Buy_a_Shotgun#:~:text=Biden%20noted%20that%20he%20personally,difficult%20to%20aim%20and%20use.), shotguns are terrible for home defense. They overpenetrate drywall, increasing the risk of destroying not just your home but harming other members of your family or even your neighbors if you have to shoot it in the house. They are deafeningly loud. They have significantly more recoil, less ammo capacity, usually require manual action to cycle, and often have terrible sights, making it significantly more difficult to make followup shots if you don’t take out the threat with your first one (usually the case) or if there are multiple threats (statistically likely). They *do* actually require you to aim, as their cone of fire is smaller at close ranges than Fudds would lead you to believe.
+Despite what you might hear from hunters, Fudds (old-fashioned gun owners that resemble Elmer Fudd), or [former Presidents of the United States](https://en.wikipedia.org/wiki/Buy_a_Shotgun#:~:text=Biden%20noted%20that%20he%20personally,difficult%20to%20aim%20and%20use.), shotguns are terrible for home defense. They overpenetrate drywall, increasing the risk of destroying not just your home but harming other members of your family or even your neighbors if you have to shoot it in the house. They are deafeningly loud. They have significantly more recoil, less ammo capacity, usually require manual action to cycle, and often have terrible sights, making it significantly more difficult to make followup shots if you don’t take out the threat with your first one (usually the case) or if there are multiple threats (statistically likely). They *do* actually require you to aim, as their cone of fire is smaller at close ranges than Fudds would lead you to believe.
 
 Shotguns were designed to hunt animals outdoors. Pistols and rifles were designed to kill humans indoors and out.
 
@@ -175,6 +175,12 @@ If your finances allow, and assuming you don’t live in an apartment, I recomme
 
 #### Semi-automatic or other (bolt action, lever action, etc)?
 
+For similar reasons that I recommended a semi-automatic pistol over a revolver, I recommend a semi-automatic rifle over any of the manual action alternatives.
+
+In a defensive situation, having to manually actuate the action on a rifle introduces a new opportunity for user error and weapon malfunction. A semi-automatic handles that on its own and thereby eliminates that risk.
+
+That said, make sure that you keep your weapons reasonably cleaned and test them regularly to verify that they function.
+
 #### Caliber
 
 The answer to this isn’t as clear-cut as it was for handguns because the caliber you want for your rifle is dependent on the use case for your rifle, and the use case for your rifle is dependent on your environment and likely threats. Do you live in an apartment/duplex/townhome/condominium, a single family home in a neighborhood, or in a rural area with no houses nearby? Are your likely threats going to be two-legged, four-legged, or possibly either?
@@ -197,17 +203,61 @@ The .223 cartridge is also a small-caliber high-velocity projectile
 
 ##### .300 AAC Blackout
 
+300 Blackout was originally designed for use by special forces that would be operating in close quarters. That might incline you to consider it as an excellent home defense cartridge, but there are a couple caveats to consider.
+
+300 Blackout is functionally two cartridges in one: subsonic and supersonic. The subsonic cartridge is designed to be shot out of a 5" or 8" barrel with a suppressor on the gun; this allows the user excellent handling and the lowest possible noise level while still maintaining decent ballistics. If it wasn't for the high price and extra paperwork required to acquire a suppressor, and the much higher price of subsonic ammo, this would be an easy winner for best home defense caliber.
+
+Supersonic 300 Blackout is less expensive than its subsonic counterpart, but it still isn't as affordable as 5.56 or 9mm. Additionally, it loses the noise suppression benefits that subsonic offers. That said, as a heavier caliber, supersonic 300 Blackout retains a good amount of velocity even out of a short barrel. This can be a good thing, particularly if your primary threat is four-legged and will likely be outdoors, or a less-than-ideal thing, like if you intend for it to be used in home defense and are concerned about overpenetration. 
+
+If you are considering subsonic 300 Blackout for home defense, it will be a decent financial investment. If you want to use supersonic 300 Blackout for perimetere/farm/ranch defense against [30-50 feral hogs](https://knowyourmeme.com/memes/30-50-feral-hogs), you might as well consider its cheaper Soviet doppleganger: 7.62x39mm.
+
 ##### 7.62x39mm 
+
+The cartridge made famous by the AK-47, 7.62x39mm was the caliber used in the world's first assault rifle. I'm going to get to the point up front: **only choose this caliber if you plan to shoot outdoors and if your primary threat has four legs**.
+
+7.62 is a heavy cartridge that maintains its velocity for a while, and as such is guaranteed to overpenetrate. It doesn't help that most 7.62 ammo that you can find at a reasonable price is going to be steel core and corrosive. It is truly a terrible home defense cartridge and isn't much more than an option for hobbyists and AK fanboys.
 
 #### Barrel length
 
-##### “Pistol”
+Be aware that a rifle is a stocked weapon with a rifled barrel that is legally required to have a 16" or longer barrel. Anything with a barrel shorter than that will fall under other legal definitions that may or may not require special permissions to own.
 
-##### SBR (Short-barreled Rifle)
+##### SBR (Short-barreled Rifle) {#sbr}
+
+A short-barreled rifle (SBR) is a stocked weapon with a rifled barrel that is shorter than 16". In order to convert an existing weapon to an SBR, you need to file an ATF Form 1 with the ATF, providing information about the weapon, the owner (either you as an individual or a trust that you run), a photo of yourself, your address, and proof that you notified your local sherrif of intent to construct. This process costs $200 to file. Once approved, you are permitted to construct an SBR.
+
+In order to purchase an existing SBR, you have to fill out an ATF Form 4. It used to be the case that the Form 1 requests were processed faster than the Form 4's, but it's unclear if that is still the case.
+
+**Be aware that simply having a short barreled receiver and compatible stock in your home could be seen as "constructive intent" and if discovered by law enforcement is sufficient to charge you with a felony.** Don't purchase the necessary parts to build an SBR until *after* you get permission.
+
+Additionally, any time you take the weapon out of state needs to be logged with the ATF. You can preemptively fill out paperwork to take it to specific states if you will be traveling in an upcoming year.
+
+##### “Braced Pistol”
+
+Rifle caliber pistols, "braced pistols", AR pistols, etc. are effectively a loophole that some gun owners use to bypass the legal process for creating a registered SBR. They are a short-barreled weapon with a rifled barrel, however they make use of a "brace", or no stock at all, instead of a stock, thereby avoiding the legal SBR classification.
+
+The brace was invented during the mid 2000s to allow users with limb differences or disabilities to be able to use a rifle with a single arm, and at the time the ATF determined that braces were not stocks for the purpose of classifying the weapon as an SBR. That decision opened up a floodgate of non-disabled gun owners purchasing braces to avoid having to register their short-barreled weapons. Recognizing this loophole, the ATF has tried numerous times to close it.
+
+As of time of writing, it is once again legal at the federal level to own a braced pistol and not have to register it as an SBR. Check with your state laws regarding short-barreled weapons and braced pistols, as some states and localities do outlaw them.
+
+Some key items to remember with braced pistols:
+
+* they have a barrel shorter than 16"
+* **they cannot have a vertical foregrip**; angled grips and handstops are fine
+* **they cannot have a stock, and you cannot modify a brace in a way that makes it function as a stock**
+* some states do not allow them
+* you can travel from state to state with them without having to fill out paperwork with the ATF 
+
+##### Pinning and Welding
+
+A much less loopholey way of getting around the barrel length restrictions when you want a shorter barrel is to pin and weld a muzzle device to a barrel in a way that would bring the length up to 16". Typically these barrels have an effective length somewhere between 13.7" and 15.1", however I have seen people try to pin and weld a suppressor to barrels as short as 11.5", all of which would bring their legal length up to at least 16". 
+
+Because the length of the barrel is permanently changed to 16", I do not foresee the ATF ever clamping down on this practice. If you want to pursue this method of barrel shortening, my recommendation is to go no shorter than 14.5"; there are an abundance of muzzle devices made to bring 14.5" barrels up to the legal length, and many options that work well as suppressor mounts should you decide to purchase a suppressor.
 
 ### Pistol Caliber Carbines
 
 Luckily, there is a middle ground option between a rifle and a pistol: the pistol-caliber carbine (PCC). A carbine is usually understood to be a rifle with a barrel length of less than 20 inches. And as the name implies, a PCC has a barrel shorter than 20 inches and shoots a pistol round instead of a rifle round, providing you with the ballistic advantages of a pistol with the handling characteristics of a rifle.
+
+I specifically recommend the [Extar EP-9](https://extarusa.com/ep9/) PCC. It is an AR-pattern carbine with some ergonomic improvements, like a side charging handle, and it takes the perennially easy to find Glock pattern magazines. It comes in a "braced pistol" configuration that you can change to an SBR at your discretion. It is extremely affordable for what it is, and if I had to buy a home defense gun today, it would be my first pick. Note that it doesn't come with any sighting system, so you will have to [purchase an aftermarket optic](#optic) in order to aim the thing.
 
 ## Gun Safes and Lockboxes
 
@@ -219,13 +269,61 @@ Either of these is reason enough to always keep your gun in a safe. As for wheth
 
 ## Accessories {#accessories}
 
+There are a lot of doodads that you can optionally attach to your weapons. I'm going to cover the ones that I think are mandatory or worth considering.
+
 ### Light
 
-### Optic
+This is mandatory. You need to know what you are shooting at, so put a light on your weapon. Additionally, I find that the extra weight of a light on my pistols makes them slightly easier to handle in terms of recoil management.
+
+Streamlight, Surefire, and Cloud Defensive make very good lights, and I've personally had good experiences with InForce and Sig lights as well.
+
+Avoid Olight. They are known to have catastrophic heat-related malfunctions. Additionally, I suggest avoiding any light that uses lithium ion batteries instead of alkaline.
+
+### Optic {#optic}
+
+The question of what optic is best for a given role is extremely contentious and ultimately comes down to user trial-and-error. I will try to give some guidance in making your decision.
+
+#### A note about zeroing
+
+Adding an optic to your weapon is not so simple as buying it and bolting it on. You will need to "zero" the optic, that is take the gun with the optic on it to the range and verify that the bullets are hitting where the optic is aiming using the adjustment knobs on the optic.
+
+#### Red Dot Sight (RDS)
+
+Red dot sights (RDS) simply project a red dot onto the glass of the optic and reflect it back to your eye. Wherever the red dot is pointing is what you will shoot.
+
+If you do not have severe astigmatism, you should probably pick an RDS. They are extremely easy to use, relatively affordable, and have few moving parts. They provide no magnification, but you can add a external magnifier if your use case dictates that you need it.
+
+##### Holographic Sight
+
+Holographic sights are fancier, more expensive red dots. The physics behind how they display the reticle or dot is completely different from a cheaper RDS, and some people claim that they don't negatively affect people with astigmatisms in the way that other RDS's do. Anecdotally, I have not found this to be true.
+
+#### Fixed Prism Optic
+
+A fixed prism optic uses a reticle or dot etched onto glass, so these optics do not affect people with astigmatisms. Prisms are often magnified, usually no more than 6x, but they can get as low as 1x. They are slightly more difficult to properly align when you go to aim, but not so much that they are prohibitively difficult, and this difficulty scales inversely with magnification level.
+
+I personally use a [1x prism](https://www.primaryarms.com/primary-arms-slx-1x-microprism-with-green-illuminated-acss-gemini-9mm-reticle) on my home defense carbine, partially because of my astigmatism but also because they do not require a working battery to operate.
+
+#### Low-powered Variable Optic (LPVO)
+
+Low-powered variable optics (LPVO) do as the name implies: allow for variable magnification, going as low as 1x. Different models offer different upper magnification levels, and generally price increases relative to magnification. Like prisms, they have an etched reticle but might be awkware to get proper eye placement on at the higher magnifications.
+
+LPVOs are a great jack-of-all-trades optic. You can generally leave the magnification at 1x for home defense, and if you intend for the rifle to also be used for perimeter defense you can simply crank the magnification up.
+
+#### Traditional rifle scopes
+
+Traditional rifle scopes that typically have lower-end magnification of at least 2x and upper-end magnificatino above 10x are poor choices for home defense. They are heavy, expensive, and provide more magnification than would be usable in a defensive situation. These scopes are meant for hunting and long-range target shooting.
 
 ### Holster
 
+If you purchase a handgun, you need to purchase a holster made specifically for that model of handgun. Do not purchase a generic, one-size-fits-all holster; these often do not securely fit the handgun or properly cover the trigger area.
+
+Holsters made out of kydex, a type of hard plastic, are the best and standard holster material. There are some cloth holsters, like Sticky Holsters or DeSantis holsters, that are good for pocket carry.
+
+For concealed carry, you want to purchase an inside the waistband (IWB) holster. The brands that I can vouch for are LAS Concealment and Phlster.
+
 ### Sling
+
+If you purchase a rifle, you will want a sling. Any two-point sling will fill this need, though you may have to purchase additional hardware to properly attach it to your rifle.
 
 ## Training {#training}
 
@@ -255,6 +353,8 @@ Do not carry openly within city limits. Save that for the gun range or backwoods
 
 ### Threat Assessment and Avoidance
 
+A good rule of thumb is never to go somewhere with a gun that you wouldn't go without a gun. Owning or carrying a gun isn't a "get out of trouble free" card, and you especially shouldn't go looking for trouble once you acquire one.
+
 ### Pepper Spray
 
 There are certain venues where you might not be able to or want to carry a firearm: religious gatherings, school, anywhere that you might physically interact with children, clients, or customers, formal events, parties, places where you might be consuming alcohol. You may even find yourself in a situation that calls for self-defense but you aren’t sure or don’t think lethal force is justified, or that a firearm is safe to use: an altercation with a minor, a vague threat that hasn’t yet escalated to demonstrable assault, a vicious dog is coming at you and you aren’t sure you can shoot a small and fast target, you fear injuring a bystander but can’t readily escape.
@@ -265,9 +365,13 @@ Even if you decide against getting a firearm, you should carry pepper spray.
 
 ### Outdoor Cameras and Signs
 
+Outdoor security cameras act both as a deterrent and a source of evidence if an intrusion occurs. Ideally you want to look for cameras that store footage either to an SD card on the camera or to a server or hard drive in your home.
+
+There are privacy risks associated with using cameras that are part of the Ring, Nest, or Arlo ecosystems. They store the video unencrypted on the servers of large tech companies that often turn over footage to law enforcement without a warrant. While they are easy to setup, that is a significant tradeoff that I suggest avoiding.
+
 ### A Watchdog
 
-You don’t need to have a police-trained Doberman Pinscher to protect your home. Any sufficiently alert and vocal dog makes a good watchdog. The barking will alert you that someone is near the house, and often the barking by itself is enough to ward off would-be intruders. 
+You don’t need to have a police-trained Doberman Pinscher to protect your home. Any sufficiently alert and vocal dog makes a good watchdog. The barking will alert you that someone is near the house, and often the barking by itself is enough to ward off would-be intruders. A chihuahua can accomplish this.
 
 Anecdotally, I have found sheepdogs (shelties and aussies in particular) to be the best watchdogs while still making incredibly loyal, trainable, and loving pets. I emphasize that you *must train your sheepdog or suffer the consequences of a bored, smart dog that doesn’t listen to you.*
 
@@ -287,25 +391,48 @@ Also take your vitamins.
 
 ## First Aid {#first-aid}
 
+Often overlookd by gun owners and trainers is first aid. If you are concerned about being attacked on the street, on the job, or anywhere outside the home, you should consider putting together a portable individual first aid kit (IFAK) to carry, including the following:
+
+* at least one tourniquet, ideally two
+* an Israeli bandage
+* packing gauze
+
+You should also take the relevant training to make sure that you can utilize these tools properly.
+
 ### Stop The Bleed
 
-### Red Cross CPR/AED
+[Stop the Bleed](https://stopthebleedproject.org/) is often offered at gun ranges and fire stations, often for free. This is an introductory course to treating traumatic bleeds, from gunshot wounds or otherwise, and will cover the usage of tourniquets, bandages, and packing gauze.
+
+### CPR/AED
+
+Both the [Red Cross](https://www.redcross.org/take-a-class/cpr) and the [American Heart Association](https://cpr.heart.org/) provide CPR/AED basic first aid training. These are broadly useful and are a bare minimum first aid skill.
 
 ## The Law {#the-law}
 
 ### Local Ordinances
 
+Many states, cities, and localities may have laws stricter than those at the federal level. Some might ban certain types of weapons, barrel lengths under 18", pistol grips on rifles, magazines with a greater than 10-round capacity, or other criteria. Some may require certain hoops to jump through to get a permit, and they may also prohibit purchase or ownership without a permit. Some might require proof of safe storage. Some may permit or forbid private purchase without a 4473 being filled out. Some might have strict laws about open carry, and some might punish you if your weapon's outline is visible through your clothes when you carry concealed even if it's otherwise legal. And it might surprise you which states have these rules.
+
+To my knowledge: no city, state, or locality outright bans gun ownership wholesale. Regardless, you should investigate the laws for your locality before purchasing a weapon. Local gun stores often offer classes that cover your local laws.
+
 ### Possession of Illegal Drugs
+
+If you intend to purchase a firearm and are a user of marijuana or any other drugs outlawed at the federal level, you need to cease usage and dispose of your drugs before you purchase a firearm. It is illegal to purchase or possess a firearm if you are "addicted", possess, or otherwise use illegal drugs.
+
+It does not matter if the drug in question has been decriminalized or legalized in your specific state. If it's illegal at the federal level, you can't own a gun at the same time as you are using that drug.
 
 ### Short-Barreled Rifles, “Rifle-Caliber Pistols”, and the Arm Brace
 
+This was discussed previously in the [short-barreled rifle](#sbr) section.
+
 ### Establishing a Gun Trust
+
+A gun trust is useful for estate planning, but it is also especially useful if you plan to purchase NFA-controlled items such as suppressors or SBRs.
+
+When forming your gun trust, anyone you designate as a responsible person on the trust also has legal access to any firearms or devices you list as property of the trust. If you make or buy an SBR or suppressor, this is especially useful because it gives you the option to have a member of the trust hold on to your devices without risking illegal possession of an NFA item. If you pass away, the items listed as property of the trust would go to your beneficiaries rather than the ATF or probate court.
 
 ## Insurance
 
-### USCCA
-
 ### Umbrella Liability Coverage
 
-## Gun Club Membership
 
