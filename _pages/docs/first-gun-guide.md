@@ -4,9 +4,8 @@ title: First Time Gun Owner's Guide
 permalink: /docs/first-gun-guide
 ---
 
-# Firearm Ownership for Self-Defense
-
-## Safety, Recommendations, and Related Considerations
+* This will become a table of contents (this text will be scrapped).
+{:toc}
 
 # Overview
 
@@ -327,6 +326,14 @@ If you purchase a rifle, you will want a sling. Any two-point sling will fill th
 
 ## Training {#training}
 
+Finding a reputable trainer that fosteres a comfortable learning environment can be difficult depending on where you are located. While NRA and USCCA certifications are nice for a trainer to have, they are by no means a guarantee that the person is particularly good at teaching or that the content they cover will be up-to-date; those certifications unfortunately are often sold in a way that looks very similar to a multi-level marketing scheme. Prior military or law enforcement experience on the part of the trainer are also not a guarantee that they are subject matter experts.
+
+Generally, trainers that focus on competition shooting will be better than average in teaching you weapons handling and marksmanship. Trainers with law enforcement experience will have the most current knowledge about local firearms laws and self-defense rules. Instructors with former military experience will hopefully be better at teaching use of cover, concealment, movement, and emergency maintenance and malfunction remediation.
+
+Ultimately, you may have to try different trainers to make sure all your bases are covered. Adopt a skeptical mindset with everything you are taught; if it doesn't make sense on its face, double check with another trainer or research the topic on the forums or Reddit. Do not automatically defer to a trainer just becaues they have professional experience or a certification; trainers often have ideological or experiential biases that might lead to incorrect conclusions or beliefs. 
+
+Consider linking up with an affinity group, if that applies to you, and ask the long-time members for their recommendations for your area. They will be able to provide safe and knowledgeable instructors.
+
 ## Practice {#practice}
 
 ### Dry Fire
@@ -435,4 +442,13 @@ When forming your gun trust, anyone you designate as a responsible person on the
 
 ### Umbrella Liability Coverage
 
+# Organizations and Affinity Groups
 
+This is a non-exhaustive list of organizations that support non-typical gun owners, providing them a comfortable space to learn and practice firearm and ancillary skills.
+
+* Latino Rifle Association
+* Asian Pacific American Gun Owners Association
+* National African American Gun Association
+* My Sister's Keeper Defense
+* Pink Pistols
+* Liberal Gun Club
