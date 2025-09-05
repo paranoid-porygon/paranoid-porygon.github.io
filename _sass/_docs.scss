@@ -1,0 +1,16 @@
+// Add "Contents" header to TOC
+#markdown-toc::before {
+  content: "CONTENTS";
+  font-weight: bold;
+}
+
+// make TOC float to the left of the document and allow independent scrolling
+#markdown-toc {
+  left: 225px;
+  margin-left: 0px;
+  position: fixed;
+  height: 100%;
+  overflow-y: scroll;
+}
+
+
