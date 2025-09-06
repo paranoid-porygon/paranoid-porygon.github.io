@@ -9,7 +9,7 @@ The Trump DOJ is finally doing what was obviously in the pipe: attempting to [ba
 
 Trans people make up somewhere around 0.5% of the total US population and make up disproportionately fewer as a portion of mass shooting perpetrators. **There is no apparent pattern of trans people commiting more mass shootings than anyone else.** [There *is* a pattern of cisgender males committing more mass shootings][7], with 96% of mass shooters being male despite men only making up 47% of the US population, but even still the occurrence of mass shootings are statistically rare such that nobody considers it reasonable to conduct targeted gun gans against whites, hispanics, or men. So it would be even more ridiculous to propose such a ban on trans people.
 
-![mass-shootings-by-gender](/assets/post-images/gun-rights-are-trans-rights/piechart.jpg)
+![mass-shootings-by-gender](/assets/post-images/gun-rights-are-trans-rights/piechart.jpg){:width="80ch"}
 
 We are still in the early stages of fact-finding about the attack on Annunciation, however some preliminary evidence suggests that the perpetrator may have been involved in [online nihilistic groups][black-pill], and that those groups [pressured the assailant into detransitioning][detrans]. None of this would be particularly surprising; researchers following extremism and youth crime are well-aware of these trends, and even when a perpetrator doesn't fully fit the typical profile, they still usually end up having been part of [these communities][mass-shooter-communities].
 
