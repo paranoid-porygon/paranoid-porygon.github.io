@@ -446,9 +446,9 @@ When forming your gun trust, anyone you designate as a responsible person on the
 
 This is a non-exhaustive list of organizations that support non-typical gun owners, providing them a comfortable space to learn and practice firearm and ancillary skills.
 
-* Latino Rifle Association
-* Asian Pacific American Gun Owners Association
-* National African American Gun Association
-* My Sister's Keeper Defense
-* Pink Pistols
-* Liberal Gun Club
+* [Latino Rifle Association](https://latinorifleassociation.org/)
+* [Asian Pacific American Gun Owners Association](https://apagoa.org/)
+* [National African American Gun Association](https://naaga.co/)
+* [My Sister's Keeper Defense](https://www.mskdefense.com/)
+* [Pink Pistols](https://www.pinkpistols.org/)
+* [Liberal Gun Club](https://theliberalgunclub.com/)
