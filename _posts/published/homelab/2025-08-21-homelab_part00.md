@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Homelab - Part 00"
+title:  "Homelab - Part 00: Intro and Overview"
 summary: "Introduction to my homelab project: Why, Current Hardware, and Planned Software"
 date: 2025-08-21  
 tags: [projects, homelab]
