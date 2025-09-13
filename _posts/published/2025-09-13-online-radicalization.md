@@ -4,7 +4,7 @@ title:  "We need to talk about online radicalization of children"
 summary: "Three high-profile shootings in the last week, two on the same day, were all the result of the same pipeline from fringe internet subcultures to real world nihilistic apolitical violence"
 date: 2025-09-13 
 tags: [it can happen here]
-published: false
+published: true
 ---
 
 ![kirk-assailant-on-christmas-2013-with-gaming-computer-jokingly-referred-to-by-mom-saying-that-now-he-can-avoid-the-family](/assets/post-images/online-radicalization/kirk_assailant_with_computer.jpg){:width="100%"}
@@ -15,7 +15,7 @@ Anything I say in this post comes fom either first-hand exploratory research tha
 
 # What is going on
 
-In the last couple weeks, we have seen three different high-profile shootings carried out by young people in three different states. The information that we have about all three at this time indicate a shared pattern that has been common among almost all of these sorts of attacks over the past decade: these were isolated young people who spent most of their time in fringe online spaces that nurtured antisocial tendencies, eventually inspiring them to participate in [apolitical, nihilistic][1] acts of violence for the sake of [notoriety][2]. We can quibble about the role of guns or race or gender in these incidents, but the overwhelming pattern that presents itself across race, sex, gender identity, and geography of these assailants is that they were young and they were deeply ensconced in fringe communities on the deep web.
+In the last couple weeks, we have seen three different high-profile shootings carried out by young people in three different states with their respective parents looking like deer in the headlights when confronted with their child's radicalization. The information that we have about all three at this time indicate a shared pattern that has been common among almost all of these sorts of attacks over the past decade: these were isolated young people who spent most of their time in fringe online spaces that nurtured antisocial tendencies, eventually inspiring them to participate in [apolitical, nihilistic][1] acts of violence for the sake of [notoriety][2]. We can quibble about the role of guns or race or gender in these incidents, but the overwhelming pattern that presents itself across race, sex, gender identity, and geography of these assailants is that they were young and they were deeply ensconced in fringe communities on the deep web.
 
 If you have not been active in niche online spaces over the past 15 years, it's difficult to succinctly explain all the memes, lingo, symbology, [subculture wars][3], groups, platforms, and personalities that are at play here, but understand that if your child spends a decent chunk of their time online, they have almost certainly been exposed to what I'm talking about. They exist in a whole other world that you may not be aware of, having conversations about topics that range from wild and ridiculous to unconscionable with total strangers. And some of what they say and do may be ironic, but more and more frequently we are seeing that young minds are increasingly "irony poisoned" where an edgy joke is taken too far into the real world because these are young minds that are not fully developed, still learning the skills of empathy and discernment, and have little to lose by acting out.
 
