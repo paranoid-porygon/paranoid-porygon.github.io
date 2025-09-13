@@ -4,6 +4,7 @@ title:  "My wishlist for the perfect laptop"
 summary: "If you build it, I will come"
 tags: [hardware]
 published: true
+date: 2025-09-12
 ---
 
 I got a bug up my ass to figure out if it was possible to [disable the Intel Management Engine][disable-Ime] on any of the devices I own (spoiler alert: probably not and if so it's not a trivial task), and that led me to stumbling upon [Leah Rowe][leah-rowe]'s [Minifree][minifree] project and her refurbed [Thinkpad T480s][libreboot-t480] that she sells with the Intel ME successfully disabled. It's a very attractive proposition and probably what I am going to recommend to people -- especially the more privacy conscious -- when they ask me what laptop they should get. But it's still missing some things that I want to see in a laptop.
@@ -22,27 +23,9 @@ As far as modern laptops go, I'm intrigued by the [Framework][framework] laptop 
 
 Each of the above laptops offered something desirable that I wish some manufacturer would combine into a single, perfect laptop. Included is a list of features both functional and aesthetic that should any manufacturer combine into a single device I would purchase and make into my main "professional", non-gaming computer.
 
-## Aluminum shell
+## Essentials
 
-Any laptop with a plastic shell, particularly larger ones (like my 17" Gigabye laptop), will eventually see the chassis fall apart. This will usually happen at the hinges, however I've seen it happen on part of the housing where the user's wrists rest (which is obviously profoundly uncomfortable).
-
-Aluminum is more durable and arguably more impact-resistant than plastic. It also doesn't terrify me as much as carbon fiber which, while lighter and theoreticaly more durable than aluminum, can cause very nasty splinters in the rare instance that it does break.
-
-## Etched glass three-button trackpad
-
-My old MacBook Pro had a perfect trackpad that I have never seen any other brand besides Apple produce. I don't undestand what is so damn hard about making a trackpad that doesn't suck, but it's wild that only one company has cracked the code here. The only thing that could improve that design is if they made it three-button instead of two-button.
-
-## Replaceable Wi-Fi 6 network controller
-
-The Libreboot T480 is modified with a Wi-Fi 6 network controller, which I think should be a bare minimum feature on any modern laptop. However, Wi-Fi 7 already exists and will eventually become the new standard, so being able to easily (or perhaps even externally) hot swap the wireless interface in a similar fashion to how Framework allows buyers to hot swap ports on their laptop would be useful. Having multiple Wi-Fi interfaces is useful for security professionals, particularly penetration testers, but to my knowledge nobody has implemented this ouside of external USB dongles.
-
-## x86_64 processor with Intel ME completely disabled
-
-ARM and [RISC V][risc-v] just don't have the vast support that x86 enjoys. Perhaps one day they will see wider adoption, but until then a number of programs that I use professionally only run on x86.
-
-The obvious issue here is that x86 makes the laptop vulnerable to the Intel Management Engine's theoretical backdoor (still has yet to be seen in the wild, but if the NSA is disabling it on their machines you know it's a legitimate concern). Disabling the ME is getting more difficult with each generation of Intel chipsets, and only a few have documentation for using [me_cleaner][me_cleaner] to disable it. Selling a laptop like those that System 76 or Purism do that have it disabled at the hardware level would be idea.
-
-## 10" form factor 1920x1200 screen
+### 10" form factor 1920x1200 screen
 
 The point of a laptop is to be portable. My 11" Chromebook is, so far, the most easy-to-port computer that I have ever owned, and even still I find that I wish that it was just a bit smaller so that it would fit into my mini Kavu sling bag. 13" to 14" seems to be the average laptop size, and I dont' know of any well known, reputable manufacturer making netbooks anymore, which is a shame.
 
@@ -50,13 +33,43 @@ Typing on a phone absolutely sucks, especially if you have osteoarthritis. I lit
 
 When the screen is that small however, the battery shrinks with it. Cramming a 1440p monitor into a laptop like that and a GPU that can support it will leave you with extremely small text and a pathetic battery life.Meanwhile, 1920x1200 is more conservative but still gives you just a little bit more vertical real estate for reading and typing than a typical 16:9 resolution.
 
-## Low-profile mechanical keys
+### x86_64 processor with Intel ME completely disabled
+
+ARM and [RISC V][risc-v] just don't have the vast support that x86 enjoys. Perhaps one day they will see wider adoption, but until then a number of programs that I use professionally only run on x86.
+
+The obvious issue here is that x86 makes the laptop vulnerable to the Intel Management Engine's theoretical backdoor (still has yet to be seen in the wild, but if the NSA is disabling it on their machines you know it's a legitimate concern). Disabling the ME is getting more difficult with each generation of Intel chipsets, and only a few have documentation for using [me_cleaner][me_cleaner] to disable it. Selling a laptop like those that System 76 or Purism do that have it disabled at the hardware level would be idea.
+
+### Fanless
+
+Computer fans, particularly on laptops, are not durable components. They will fail, sometimes catastrophically, and if undetected can cause to system overheat and permanent damage. If your laptop is no longer in production, replacement fans might be difficult or impossible to source.
+
+Given that single board computers (SBCs) are often made to and run perfectly fine without a fan as the cooling unit, I'm making this a requirement for my hypothetical low-resource high-portability laptop.
+
+## Nice-to-have
+
+### Aluminum shell
+
+Any laptop with a plastic shell, particularly larger ones (like my 17" Gigabye laptop), will eventually see the chassis fall apart. This will usually happen at the hinges, however I've seen it happen on part of the housing where the user's wrists rest (which is obviously profoundly uncomfortable).
+
+Aluminum is more durable and arguably more impact-resistant than plastic. It also doesn't terrify me as much as carbon fiber which, while lighter and theoreticaly more durable than aluminum, can cause very nasty splinters in the rare instance that it does break.
+
+All of that said, the process to produced anodized aluminum is not at all environmentally friendly so this is a soft requirement. If a less ecologically detrimental process for making aluminum shell laptops is developed, I will make this an essential criterium.
+
+### Etched glass three-button trackpad
+
+My old MacBook Pro had a perfect trackpad that I have never seen any other brand besides Apple produce. I don't undestand what is so damn hard about making a trackpad that doesn't suck, but it's wild that only one company has cracked the code here. The only thing that could improve that design is if they made it three-button instead of two-button.
+
+### Replaceable Wi-Fi 6 network controller
+
+The Libreboot T480 is modified with a Wi-Fi 6 network controller, which I think should be a bare minimum feature on any modern laptop. However, Wi-Fi 7 already exists and will eventually become the new standard, so being able to easily (or perhaps even externally) hot swap the wireless interface in a similar fashion to how Framework allows buyers to hot swap ports on their laptop would be useful. Having multiple Wi-Fi interfaces is useful for security professionals, particularly penetration testers, but to my knowledge nobody has implemented this ouside of external USB dongles.
+
+### Low-profile mechanical backlit keys
 
 Membrane keyboards will eventually wear out, and those on cheap netbooks, chromebooks, and UMPCs are especially vulnerable because they were made to be exactly that: cheap. I try to be as gentle as possible when typing on my Chromebook so that I can get another 8 years out of this thing. But if someone came alont and developed a low-profile mechanical switch and key cap design that was meant for laptops, that would be a godsend.
 
 Yes, this would lead to the laptop being thicker than the almost paper-thin laptop designs being sold now. But I think the juice is worth the squeeze here.
 
-## Swapable ports
+### Swapable ports
 
 Framework had the right idea: let users hot swap their ports. I think a base config would look like:
 
@@ -67,11 +80,11 @@ Framework had the right idea: let users hot swap their ports. I think a base con
 
 but I'm one of those old heads that still uses Ethernet and analog headphones. As mentioned above, a removable Wi-Fi dongle that fit into the port slots would also be really cool, especially if it had a visible antenna.
 
-## Upgradealbe RAM
+### Upgradealbe RAM
 
 I think what I really mean is Bring Your Own RAM. I think most people would do either 16Gb or 64Gb, depending on how bad they are about closing browser tabs. Miraculously, I am able to do 80% of my computer stuff with just 4Gb of RAM and a 4Gb swap partition. But 16Gb would be nice to have instead, if only so I can let ClamAV and SyncThing run as background daemons all the time. 
 
-## Libreboot or GNUboot
+### Libreboot or GNUboot
 
 Just let me go directly to grub.
 
@@ -79,7 +92,13 @@ Just let me go directly to grub.
 
 No single laptop, to my knowledge, has ever incoporated all these features. The few that remove or disable Intel ME are focused on building 13+" laptops with plastic shells. The ones with aluminum shells and nice trackpads all use Apple's goofy proprietary chipset. The Framework laptops seem to generally get mixed reviews, but I think if any company would be able to pull off the concept I am proposing here it'd be Framework. Even if it ends up being ~$2,000, I think it would be a better investment than an even more expensive MacBook.
 
-Until then, I think I'll stick with my $30 Chromebook. At least I know I got well more than I paid for.
+Until then, I think I'll stick with my $30 Chromebook. At least I know I got well more than I paid for.i
+
+# A Challenger Approaches
+
+So when I intially wrote this post, I only did a cursory look for netbooks in current production and didn't see anything close to meeting my criteria. I neglected to look at niche laptops that were produced up until only recently. To my detriment, I overlooked the Star Labs Starlite MkIV laptop that meets more of my criteria than any other device I've found.
+
+It met so many of my criteria that I actually just ordered a "Like New" one that I saw up for sale on eBay. I will report back once I have tested and reviewed it, but it seems to be enough to become my primary PC for the foreseeable future.
 
 [disable-Ime]: https://hackaday.com/2023/04/12/disabling-intels-backdoors-on-modern-laptops/
 [leah-rowe]: https://vimuser.org/
