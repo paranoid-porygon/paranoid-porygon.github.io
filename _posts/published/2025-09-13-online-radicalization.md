@@ -45,7 +45,7 @@ As far as game consoles: Nintendo tends to be much, much better about child safe
 
 # Where do we go from here
 
-Whatever your feelings on expanding gun control or access to mental health for children and young adults might be, nothing is being done on either of those fronts in any meanginful capacity that keeps pace with the rate of nihilistic youth violence. We have overwhelming evidence that most of these young people who engage in highly public violence are deeply isolated and extremely online, and that their internet usage and what they were doing and who they were communicating with was largely unknown to their parents. This is a fixable problem that cannot be easily offloaded to social media platforms, gaming companies, teachers, counselors, faith organizations, or the government. Parents are the people with the greatest --and quite possibly only-- ability to intervene.
+Whatever your feelings on expanding gun control or access to mental health for children and young adults might be, nothing is being done on either of those fronts in any meanginful capacity that keeps pace with the rate of nihilistic youth violence. We have overwhelming evidence that most of these young people who engage in highly public violence are deeply isolated and extremely online, and that their internet usage and what they were doing and who they were communicating with was largely unknown to their parents. This is a fixable problem that cannot be easily offloaded to social media platforms, gaming companies, teachers, counselors, faith organizations, or [the government][7]. Parents are the people with the greatest --and quite possibly only-- ability to intervene.
 
 I beg all the parents out there to stop using YouTube and Discord as a babysitter.
 
@@ -55,5 +55,5 @@ I beg all the parents out there to stop using YouTube and Discord as a babysitte
 [4]: https://time.com/7205332/meta-fact-checking-community-notes/
 [5]: https://newschannel20.com/news/local/online-games-pose-hidden-dangers-as-kids-face-extremist-recruitment
 [6]: https://web.archive.org/web/20220217231323/https://www.washingtonpost.com/opinions/2022/02/16/social-media-is-riskier-kids-than-screen-time/
-
+[7]: https://theconversation.com/trump-administration-cuts-to-terrorism-prevention-departments-could-leave-americans-exposed-261630
 
