@@ -6,6 +6,6 @@ permalink: /docs/
 
 # Technical Documentation
 
-# Mischellaneous Documents
+# Miscellaneous Documents
 
 [First Time Gun-buyer's Guide](/docs/first-gun-guide)
