@@ -22,6 +22,7 @@ Page 195:
 Page 197:
 
 > Although some Germans were a psychologically ideal fit for Nazi propaganda, not all were. [Dicks] calculated that 10 percent of German soldiers were "fanatical" Nazis and a further 25 percent were "believers with reservations." As the war neared its end, Dicks was most worried about this 25 percent: their Nazism was mixed with a more general admiration of German militarism, and they could easily blend in as good patriots in the Germany of the future without changing their underlying authoritarian predilections.
+> 
 > The largest group of German soldiers was the 40 percent of "unpolitical men." They were largely indifferent to the type of regime as long as it gave them "order and security." "Passive anti-Nazis" made up 15 percent; 10 percent were active anti-Nazis."
 
 Page 215:
@@ -31,7 +32,9 @@ Page 215:
 Page 216:
 
 > "...all the peoples of Western Europe have developed the habit of blaming their misfortunes on some force out of their reach." [Philospher Hannah] Arendt tied the lack of responsibility to the Nazis' relativist attitude to the truth: if you thought facts and truth were all "subjective," then everyone could choose their own reality and avoid responsibility:
+> 
 > > In all fields there is a kind of gentlemen's agreement by which everyone has a right to his ignorance under the pretext that everyone has a right to his opinion... The average German honestly believes this free-for-all, this nihilistic relativity about facts, to be the essence of democracy. In fact, of course, it is a legacy of the Nazi regime.
+> 
 > Arendt thought the very ease with which Germans had surrendered Nazi ideology without any serious debate about its precepts was itself part of Nazism: "What one is up against is not indoctrination but the incapacity or unwillingness to distinguish altogether between fact and opinion."
 
 Page 222:
