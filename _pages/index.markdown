@@ -7,7 +7,7 @@ title: Home
 permalink: /
 ---
 
-[![yummy lil 88x31 badgets](/assets/badges/88by31.gif)](https://cyber.dabamos.de/88x31/index.html)
+[![yummy lil 88x31 badges](/assets/badges/88by31.gif)](https://cyber.dabamos.de/88x31/index.html)
 [![this site is viewable with any browser](/assets/badges/anybrowser3.gif)](https://anybrowser.org/campaign/)
 [![i use arch btw](/assets/badges/archlinux.gif)](https://archlinux.org/)
 [![brak now!](/assets/badges/braknow.gif)](https://www.cameo.com/andymerrill2)
