@@ -2,7 +2,7 @@
 layout: post
 title:  "Facebook finally banned me"
 summary: "Tried to check my messages and my account was disabled with no explanation and no recourse."
-date:   
+date: 2025-10-22  
 tags: [enshittification]
 published: true
 ---
