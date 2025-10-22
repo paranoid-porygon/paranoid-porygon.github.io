@@ -11,6 +11,7 @@ permalink: /
 [![this site is viewable with any browser](/assets/badges/anybrowser3.gif)](https://anybrowser.org/campaign/)
 [![i use arch btw](/assets/badges/archlinux.gif)](https://archlinux.org/)
 [![brak now!](/assets/badges/braknow.gif)](https://www.cameo.com/andymerrill2)
+[![coreboot](/assets/badges/coreboot.gif)](https://www.coreboot.org/)
 [![tested on Firefox](/assets/badges/firefox4.gif)](https://www.firefox.com/en-US/)
 [![fully automated luxury gay space piracy](/assets/badges/seedyourtorrents.gif)](#)
 [![windows is dead and windows killed it](/assets/badges/stop.gif)](https://archlinux.org/)
