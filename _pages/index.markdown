@@ -15,7 +15,7 @@ permalink: /
 [![windows is dead and windows killed it](/assets/badges/stop.gif)](https://archlinux.org/)
 [![i have literally never met anyone who uses emacs irl](/assets/badges/vim.vialle.love.anim.gif)](https://www.vim.org/)
 [![remember who you are](/assets/badges/www.gif)](https://info.cern.ch/hypertext/WWW/TheProject.html)
-![but i haven't survived 2038](/assets/badges/y2ks.gif)]
+![but i haven't survived 2038](/assets/badges/y2ks.gif)
 
 # Blog
 {% capture _ %}{% increment blogcount %}{% endcapture %}
