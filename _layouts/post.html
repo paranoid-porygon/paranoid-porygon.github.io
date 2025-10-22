@@ -7,7 +7,7 @@ excerpt_separator: <!--excerpt-->
     <header class="post-header">
 	<nav><ul class="tag-links">[
             {% for tag in page.tags %}
-	    <li>{% if tag != page.tags[0] %}, {% endif %}<a href="/blog/tags/#tag-{{ tag }}">{{ tag }}</a></li>
+	    <li>{% if tag != page.tags[0] %}, {% endif %}<a href="/blog/tags#tag-{{ tag }}">{{ tag }}</a></li>
             {% endfor %}
 	]</ul></nav>
 	<h1 class="post-title">{{ page.title }}</h1>
