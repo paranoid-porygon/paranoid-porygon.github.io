@@ -7,8 +7,6 @@ tags: [enshittification]
 published: true
 ---
 
-# Facebook finally banned me
-
 On Monday, October 20th, 2025, after having spent most of the weekend offline either at the [No Kings][no-kings] protest or playing Pokemong Legends: Z-A on the Nintendo Switch 1, I attempted to access Facebook to see if I had any messages. I don't have any META apps --or any other social media apps, for that matter-- installed on my phone and only check their sites from a web browser on a cadence of roughly once a day for no more than a few minutes. I keep the account logged in and the site cookie fresh, however this time I was made to manually log in for some reason, which at the time I assumed was because I regularly swap VPN servers and META wanted to verify that my account wasn't compromised. So I logged in, and this was the screen that I was presented with:
 
 ![your-account-has-been-disabled][login-screen]{:width="100%"} 
@@ -33,15 +31,15 @@ The only section of any of these that looked remotely applicable was this, from 
 
 Which, if this is what they used to justify the account lock, has a couple of issues:
 * I did recently change the email address that was tied to my account, however that had been changed for several weeks by the time the ban happened and I was still regularly interacting with the same people via Messenger that I had been since I created the account in 2021
-* I had updated my bio details a few weeks ago, but META has no way of verifying if those details are correct or incorrect because I don't have my current employer shared publicly anywhere on the web, don't have an active LinkedIn account, or have my employer on any of my credit reports
+* I had updated my bio details a few weeks ago, but META has no way of verifying if those details are correct or incorrect because I don't have my current employer shared publicly anywhere on the web, don't have an active LinkedIn account, and don't have my employer on any of my credit reports
 * I don't believe that I had a "profile location" set
-* While I did share and tag myself in images from [thispersondoesnotexist.com](thispersondoesnotexist.com) to throw off facial recognition, my account's profile picture was the default Facebook profile image, and my cover image was blank
+* While I did share and tag myself in images from [thispersondoesnotexist.com](https://www.thispersondoesnotexist.com) to throw off facial recognition, my account's profile picture was the default Facebook profile image, and my cover image was blank
 
 These were the only community standards I came close to violating, however in absence of either an email or login alert explaining the justification for my account being disabled, this is entirely speculation. I reached out to what I believe is META's appeal account, appeals@fb.com, asking for an explanation and to have my account reinstated but have not received a response yet. 
 
 I suspect that my regular VPN use, that I changed my login email to a [ProtonMail alias address][proton-alias], and that the relatively sparse details and activity on my profile page may have triggered their anti-bot/abuse safeguards, but I am surprised that the age of the account and that I still regularly used Messenger to communicate with the same people as I did since the account was created didn't indicate otherwise. The absence of an email or message explaining why they decided to disable my account strikes me as unprofessional, even worse that there was no apparent avenue to appeal the decision (I had to hunt down that appeals email address, and I'm not convinced it's even active). I anticipate that if META support gets back to me that they will request government-issued ID to verify the authenticity of my account, at which point I will tell them to go fuck themselves because 1) I am not giving them something that sensitive and 2) they have no way to verify that it's not stolen (it is trivially easy to get a stolen ID on the dark web; I have done this during an investigation).
 
-# I'm not mad, actually I'm laughing
+## I'm not mad, actually I'm laughing
 
 Facebook is a dogshit website whose utility has been on a steady decline for at least 6 years, and its parent company and its leadership are morally bankrupt ghouls that the world would be better off not giving their data to. I primarily used Facebook to hop on Messenger and Marketplace, and there are comparable and even better alternatives for each of those features (Signal and Craigslist). If I can't get my account reinstated, it will be precisely zero skin off my ass. I still have a menagerie of burners that they haven't banned, and more and more people that I care to instant message are starting to use Signal.
 
