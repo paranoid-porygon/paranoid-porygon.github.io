@@ -7,7 +7,15 @@ title: Home
 permalink: /
 ---
 
-![i use arch btw](/assets/badges/archlinux.gif)
+[![this site is viewable with any browser](/assets/badges/anybrowser3.gif)](https://anybrowser.org/campaign/)
+[![i use arch btw](/assets/badges/archlinux.gif)](https://archlinux.org/)
+[![brak now!](/assets/badges/braknow.gif)](https://www.cameo.com/andymerrill2)
+[![tested on Firefox](/assets/badges/firefox4.gif)](https://www.firefox.com/en-US/)
+[![fully automated luxury gay space piracy](/assets/badges/seedyourtorrents.gif)](#)
+[![windows is dead and windows killed it](/assets/badges/stop.gif)](https://archlinux.org/)
+[![i have literally never met anyone who uses emacs irl](/assets/badges/vim.vialle.love.anim.gif)](https://www.vim.org/)
+[![remember who you are](/assets/badges/www.gif)](https://info.cern.ch/hypertext/WWW/TheProject.html)
+![but i haven't survived 2038](/assets/badges/y2ks.gif)]
 
 # Blog
 {% capture _ %}{% increment blogcount %}{% endcapture %}
