@@ -12,7 +12,7 @@ I opted for a static site because it's easier to maintain and can easily be rend
 
 This site is optimally viewed on a desktop or laptop computer screen. I do not have any plans to optimize the site layout for mobile devices; I think ubiquitous computing is bad and having your neck craned and face glued to a screen in public is unseemly, so I do not wish to enable that.
 
-## Why
+## Why {#this-site-why}
 
 My goal is for this site to replace my various social media pages and profiles. The companies and individuals who run these sites have proven themselves to be capricious and arbitrary in moderating the content on their sites, often punishing legitimate, valid discourse or censoring inoffensive content, while bad actors and opportunists spread disinformation and brain-dead slop. Their business models are diametrically opposed to user privacy and data security. Several have engaged in undisclosed psychological experiments on their users without their consent. Some examples: 
 
