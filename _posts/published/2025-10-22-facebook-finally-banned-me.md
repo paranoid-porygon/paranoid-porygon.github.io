@@ -56,7 +56,7 @@ If there is no other takeaway from my experience here, it's that you should neve
 [fb-cybersecurity]: https://transparency.meta.com/policies/community-standards/cybersecurity/
 [fb-inauthentic-behavior]: https://transparency.meta.com/policies/community-standards/inauthentic-behavior/
 [proton-alias]: https://proton.me/support/creating-aliases
-[MySpace experienced]: https://www.bit-tech.net/news/tech/software/myspace-glitch-deletes-masses-of-data/1/
+[myspace-glitch]: https://www.bit-tech.net/news/tech/software/myspace-glitch-deletes-masses-of-data/1/
 
 <!--images-->
 [login-screen]:             /assets/post-images/facebook-finally-banned-me/login-screen.png
