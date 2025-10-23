@@ -31,6 +31,7 @@ permalink: /
   {% endif %}
 {% endfor %}
 
+## Blinkies
 
 [![the www project](/assets/badges/www.gif)](https://info.cern.ch/hypertext/WWW/TheProject.html)
 [![this site is viewable with any browser](/assets/badges/anybrowser3.gif)](https://anybrowser.org/campaign/)
