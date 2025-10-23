@@ -5,11 +5,11 @@ excerpt_separator: <!--excerpt-->
 
 <article id="post">
     <header class="post-header">
-	<nav><ul class="tag-links">[
+	<nav>[
             {% for tag in page.tags %}
-	    <li>{% if tag != page.tags[0] %}, {% endif %}<a href="/blog/tags#{{ tag }}">{{ tag }}</a></li>
+	    {% if tag != page.tags[0] %}, {% endif %}<a href="/blog/tags#{{ tag }}">{{ tag }}</a>
             {% endfor %}
-	]</ul></nav>
+	]</nav>
 	<h1 class="post-title">{{ page.title }}</h1>
 	<div class="post-date"> last updated: {{ page.date | date_to_string  }}</div>
     </header>
