@@ -18,7 +18,7 @@ I personally boycott Airbnb, VRBO, or any service or organization that turns wha
 
 ## Reason
 
-Land is scarce and the demand for homes currently exceeds the supply in the United States.[1](https://realestate.usnews.com/real-estate/housing-market-index/articles/housing-market-predictions-for-the-next-5-years) Hoarding homes meant for family ownership exacerbates this scarcity[2](https://finance.yahoo.com/news/over-5-million-semi-vacant-185618591.html) and contributes to high home prices. In any other context, the accumulation of basic necessities at the expense of others in need would be referred to as gluttony. This is grotesque behavior and should not be rewarded.
+Land is scarce and the demand for homes currently exceeds the supply in the United States[[1](https://realestate.usnews.com/real-estate/housing-market-index/articles/housing-market-predictions-for-the-next-5-years)]. Hoarding homes meant for family ownership exacerbates this scarcity[[2](https://finance.yahoo.com/news/over-5-million-semi-vacant-185618591.html)] and contributes to high home prices. In any other context, the accumulation of basic necessities at the expense of others in need would be referred to as gluttony. This is grotesque behavior and should not be rewarded.
 
 ## Goal
 
@@ -36,7 +36,7 @@ I am personally participating in this boycott. This is a fairly easy boycott to 
 
 ## Reason
 
-In the aftermath of the reelection of Donald Trump as president of the United States, several companies slashed DEI (Diversity, Equity, and Inclusivity) initiatives. Target was one such company and as a result became the subject of a nationwide boycott, spearheaded by pastor Jamal Bryant.[1](https://www.pbs.org/newshour/classroom/daily-news-lessons/2025/08/pastor-leading-target-boycott-on-its-impact-and-the-retailers-response)
+In the aftermath of the reelection of Donald Trump as president of the United States, several companies slashed DEI (Diversity, Equity, and Inclusivity) initiatives. Target was one such company and as a result became the subject of a nationwide boycott, spearheaded by pastor Jamal Bryant[[1](https://www.pbs.org/newshour/classroom/daily-news-lessons/2025/08/pastor-leading-target-boycott-on-its-impact-and-the-retailers-response)].
 
 The most generous explanation for Target's decision is that they feared retribution from the Trump administration which has threatened to pursue "discrimination lawsuits" against companies engaging in DEI initiatives.
 
@@ -48,7 +48,7 @@ Boycott organizers want those decisions reverted and for Target to meet the goal
 
 ## Status
 
-Target has experienced a slump in sales, however it does not appear to be a result of the boycott. The number of Americans who regularly shop at Target has declined 19% since 2021. There does appear to have been a tradeoff in who exactly shops at Target and the change tacks to party lines.[2](https://apnews.com/article/target-walmart-ceo-boycott-dei-7996ce3fbf7f0cc9207472bc7a227cd6)
+Target has experienced a slump in sales, however it does not appear to be a result of the boycott. The number of Americans who regularly shop at Target has declined 19% since 2021. There does appear to have been a tradeoff in who exactly shops at Target and the change tacks to party lines[[2](https://apnews.com/article/target-walmart-ceo-boycott-dei-7996ce3fbf7f0cc9207472bc7a227cd6)].
 
 ### 2025
 
