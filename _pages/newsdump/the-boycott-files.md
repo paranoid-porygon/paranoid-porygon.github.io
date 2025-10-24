@@ -3,11 +3,10 @@ layout: default
 title:  "Ongoing Boycotts and Related Updates"
 permalink: /newsdump/boycotts/
 ---
-
-Whenever I run across an ongoing boycott that seems worth considering, I will share the subject, reason, goal, and current status on this page.
-
 * This will become a table of contents (this text will be scrapped).
 {:toc}
+
+Whenever I run across an ongoing boycott that seems worth considering, I will share the subject, reason, goal, and current status on this page.
 
 # Airbnb, VRBO, and short term residential home rentals
 
