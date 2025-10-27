@@ -12,7 +12,7 @@ Whenever I run across an ongoing boycott that seems worth considering, I will sh
 
 # Any game developer or publisher that uses kernel-level anti-cheat software
 
-Kernel-level access enables some nasty malware possibilities, and that sort of access should be tightly restricted. If you are aware of the [Intel Management Engine vulnerability](), this is a similar idea except that it has already been exploited in the wild[1]()[2]() and creates an even broader attack surface. I have personally seen gaming companies remotely access their software installed on the computers of suspected bad actors; this is not just a theoretical vulnerability. 
+Kernel-level access enables some nasty malware possibilities, and that sort of access should be tightly restricted. If you are aware of the [Intel Management Engine vulnerability](), this is a similar idea except that it has already been exploited in the wild[[1](),[2]()] and creates an even broader attack surface. I have personally seen gaming companies remotely access their software installed on the computers of suspected bad actors; this is not just a theoretical vulnerability. 
 
 ## Goal
 
@@ -41,6 +41,30 @@ Brownells administers the AR-15 dot com forums (aka Arfcom) which saw the people
 This story is notable because it's not just gun culture or forum mod drama; the accusations were brought against Karl et al because they are staunch supporters of the "2A for All" or "The Second Amendment is for everyone", a philosophy which includes Arfcom's favorite minority to disparage: trans people. In fact, Karl's public support for trans people and particularly their right to defend themselves led to Arfcom accusing him of the sexual grooming of minors, a completely bogus claim that is a common rhetorical tactic employed against trans people and their supporters. This bogus accusation is not only legally defamation but also contrary to the rules of most web forums, but instead of punishing the defamers, Arfcom and by extension its owners Brownells punished Karl and his associates and former associates for attempting to defend themselves.
 
 Hopefully the irony isn't lost on anyone that a company that sells tools for self-defense punished someone for defending their own character.
+
+# Electronic Arts and their subsidiary publishers
+
+EA is in the process of being purchased by a small number of private equity firms including one owned by the Kushner/Trump family of businesses and the Saudi Wealth Fund[[1]()]. 
+
+## Reason
+
+Any time that a firm is purchased by a private equity fund, it is subsequently stripped down to just IP rights and the bare minimum number of personnel needed to run the business[[2]()], almost always at the expense of making a quality product[[3]()] and ultimately the consumer, all in service of the new owners making a quick buck. EA will see massive layoffs once this deal goes through, and their gaming software products will be reduced to microtransaction vehicles.
+
+The above is true regardless of which private equity firm does the buyout, but this one is especially sinister: it's the wealth fund of the Saudi Arabian government, the most despotic regime on the planet[[3]()], which the Kushner/Trump family has decided to do business with. The Saudi royal family are inhuman monsters and anyone who does business with them is a ghoul, and neither should ever be rewarded.
+
+Some US senators have raised national security concerns over the buyout similarly to the national security concerns regarding TikTok.[[4](https://www.pcgamer.com/gaming-industry/saudi-arabias-acquisition-of-electronic-arts-faces-pushback-from-game-developers-petition-calls-on-ftc-to-scrutinize-this-deal-closely/)]
+
+## Goal
+
+Persuade gamers to stop advertising EA games via streaming or word-of-mouth prior to the sale going through, and to stop purchasing EA games altogether after it is finalized. This unfortunatley includes:
+* FIFA
+* The Sims
+* All new Star Wars games and MMO subscriptions
+* All Bioware games
+* The Battlefield series
+* Apex Legends
+
+I am not optimistic that an effective boycott will preserve these franchises; in all likelihood, their developers would go under. Their employees are likely to be laid off shortly after the sale (long before a boycott would ever affect EA's bottomline) and will hopefully land jobs elsewhere in the industry, maybe even at the software shops making competitors or alternatives. Gamers should pursue alternatives to the above titles, especially indie ones.
 
 # Hoplite Armor
 
