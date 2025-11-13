@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gear Review: Hayleay Strategic Flatpack Plus"
+title:  "Gear Review: Hayley Strategic Flatpack Plus"
 summary: "The Hayley Strategic Flatpack sucks and you shouldn't even consider buyign one"
 date: 2025-08-25
 tags: [gun stuff, gear reviews]
