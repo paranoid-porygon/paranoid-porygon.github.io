@@ -19,6 +19,8 @@ permalink: /
   {% endif %}
 {% endfor %}
 
+[more>>](/blog)
+
 ## Latest News
 {% capture _ %}{% increment newscount %}{% endcapture %}
 {% for post in site.posts %}
