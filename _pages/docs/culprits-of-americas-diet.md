@@ -4,11 +4,16 @@ title: The Main Culprits in America's Diet Problem
 permalink: /docs/american-diet-culprits
 ---
 
+* This will become a table of contents (this text will be scrapped).
+{:toc}
+
+# The Main Culprits in America's Diet Problem
+
 Many Americans, particularly those returning from trips abroad, often lament that "whatever *they* are putting in our food is poisoning us" with regards to the American diet, ostensibly evidenced by our obesity, sedentry, and heart disease epidemic. Ignoring the obvious differences between the American lifestyle and everywhere else in the world, primarily our reliance on cars as opposed to walking and public transit, these people usually blame any ingredient found on the nutrition facts of a food item that is too difficult for them to pronounce. They fail to consider that it is the food itself, not whatever ingredients are in them, that might be the culprit for their various diet-related health issues, that it's not the FDA or food companies' faults as much as it is their sincere ignorance or outright laziness that is to blame.
 
 We know what the problematic staples are in the American diet. They are **alcohol, added sugar, red meat, and ultra-processed foods**. Additionally, Americans largely **do not consume enough vegetables** (ideally raw ones).
 
-These lessons have been taught to Americans in schools from the time that we used the Food Pyramind to the present where we use the Food Plate. But instead food influencers have taken the reins on food education, convincing thousands of people that "organic" food is safer, that they should be scared of words they don't understand on food labels, and the only solution is to buy whatever the influencers themselves are selling on their online stores (nevermind that supplements are less regulated than food is). Like in many other venues, too much reliance has been placed on Americans themselves to keep up-to-date and actually educate themselves about this topic, and just like in every other venue Americans have proven easy to manipulate, mislead, and grant an inflated sense of their own expertise, leading to confidence in erroneous beliefs. 
+These lessons have been taught to Americans in schools from the time that we used the Food Pyramind to the present where we use the Food Plate. But instead food influencers have taken the reins on food education, convincing thousands of people that "organic" food is safer, that they should be scared of words they don't understand on food labels, and the only solution is to buy whatever the influencers themselves are selling on their online stores (nevermind that supplements are less regulated than food is). Like in many other arenas, too much reliance has been placed on Americans themselves to keep up-to-date and actually educate themselves about this topic; and just like in every other arena, Americans have proven easy to manipulate, mislead, and grant an inflated sense of their own expertise, leading to confidence in erroneous beliefs. 
 
 Americans that lament that the FDA is too lax need to consider that what they are essentially asking for is a stricter nanny state, and that the only way to prevent that is to take some personal responsibility and seek out peer-reviewed research-backed food information to self-police their own eating behaviors. I know I don't want a Soviet-style rationing system just because your meemaw isn't able to put two-and-two together to figure out that guzzling cherry coke and oreos is giving her type 2 adult onset diabetes.
 
