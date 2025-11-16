@@ -19,7 +19,7 @@ permalink: /
   {% endif %}
 {% endfor %}
 
-[more>>](/blog)
+[more bad posts >>](/blog)
 
 ## Latest News
 {% capture _ %}{% increment newscount %}{% endcapture %}
