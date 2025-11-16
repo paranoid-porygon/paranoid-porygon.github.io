@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Five Horse of America's Diet Apocaplypse"
+title:  "The Five Horses of America's Diet Apocaplypse"
 tags: [food]
 published: true
 ---
