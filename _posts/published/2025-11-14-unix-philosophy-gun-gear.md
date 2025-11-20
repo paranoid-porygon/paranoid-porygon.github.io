@@ -16,6 +16,7 @@ What I'm trying to say is that you probably don't need a chest rig.
 If you too are [cursed with knowledge][rms-foot-food], you know what Unix is. If you are untainted by the original sin of being a computer user of a certain age, here's a very quick primer: Unix is a computer operating system developed in the late '60s and released in the early '70s that was designed to be general purpose and to be able to run on a variety of computer hardware rather than being vendor locked like much of IBM's software at the time. It enabled programmers to develop a variety of purpose-built tools that would eventually become standard computing utilities, encorporated into most modern operating systems but especially Mac OS X and led to the rise of the Free Software Movement, the GNU project, and ultimately the Linux and BSD operating systems. Computing, let alone the internet, as we know it today would not exist were it not for Unix, its architects, its reverse-engineers, and the design philosophy that it inspired.
 
 The [Unix Philosophy][unix-philosophy] as codified in the 1978 Bell System Technical Journal specifically applies to the development of software tools, but attempts have been made to distill its core ethos into a general purpose philosophy of use. That distillation looks like the following points:
+
 1) Make a thing that does one thing and does it well
 2) Make things that work together
 3) Make things that share a universal interface/standard
