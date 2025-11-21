@@ -1,8 +1,10 @@
 ---
 layout: default
 ---
-
+{% capture md %}
 * This will become a table of contents (this text will be scrapped).
 {:toc}
+{% endcapture %}
+{{ md | markdownify }}
 
 {{ content }}
