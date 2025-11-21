@@ -1,11 +1,8 @@
 ---
-layout: default
+layout: doc
 title: The Main Culprits in America's Diet Problem
 permalink: /docs/american-diet-culprits
 ---
-
-* This will become a table of contents (this text will be scrapped).
-{:toc}
 
 # The Main Culprits in America's Diet Problem
 
