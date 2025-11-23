@@ -12,7 +12,7 @@ permalink: /newsdump
 {% endfor %}
 
 -->
-{% for post in site.posts %}
+{% for post in site.newsdump %}
   {% if post.tags contains 'newsdump' %}
     <h2><a href="{{ post.summary }}" class="post-preview">{{ post.title }}</a></h2>
   {% endif %}
