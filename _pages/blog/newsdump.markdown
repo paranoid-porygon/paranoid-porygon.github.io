@@ -13,5 +13,5 @@ permalink: /newsdump
 
 -->
 {% for post in site.newsdump %}
-  <h2><a href="{{ post.url }}" class="post-preview">{{ post.title }}</a></h2>
+  <h2><a href="{{ post.dest }}" class="post-preview">{{ post.title }}</a></h2>
 {% endfor %}
