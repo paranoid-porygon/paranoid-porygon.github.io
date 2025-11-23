@@ -66,14 +66,6 @@ defaults:
       permalink: /blog/:title
   -
     scope:
-      type: posts
-      path: newsdump/_posts
-    values:
-      is_post: true
-      layout: newsdump
-      permalink: /newsdump/:year/:month/:day/:title 
-  -
-    scope:
       type: pages
       path: _pages
     values:
@@ -88,3 +80,7 @@ defaults:
 
 sass:
   style: compressed
+
+collections:
+  - newsdump
+
