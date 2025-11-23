@@ -66,6 +66,14 @@ defaults:
       permalink: /blog/:title
   -
     scope:
+      type: newsdump
+      path: _newsdump
+    values:
+      is_post: true
+      layout: newsdump
+      permalink: /:year/:month/:day/:title 
+  -
+    scope:
       type: pages
       path: _pages
     values:
