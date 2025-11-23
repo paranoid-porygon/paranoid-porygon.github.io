@@ -67,11 +67,11 @@ defaults:
   -
     scope:
       type: newsdump
-      path: _newsdump
+      path: newsdump/_posts
     values:
       is_post: true
       layout: newsdump
-      permalink: /:year/:month/:day/:title 
+      permalink: /newsdump/:year/:month/:day/:title 
   -
     scope:
       type: pages
