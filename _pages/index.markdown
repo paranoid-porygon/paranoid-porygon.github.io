@@ -7,12 +7,12 @@ title: Home
 permalink: /
 ---
 
-## Blog
+# Blog
 {% capture _ %}{% increment blogcount %}{% endcapture %}
 {% for post in site.posts %}
   {% if blogcount < 6 %}
     {% unless post.tags contains 'newsdump' %}
-<h3><a href="{{ post.url }}" class="post-preview">{{ post.title }}</a></h3>
+<h2><a href="{{ post.url }}" class="post-preview">{{ post.title }}</a></h2>
 {{ post.summary | default: post.excerpt }}
 {% capture _ %}{% increment blogcount %}{% endcapture %}
     {% endunless %}
@@ -21,19 +21,16 @@ permalink: /
 
 [more bad posts >>](/blog)
 
-## Latest News
+# Latest News
 {% capture _ %}{% increment newscount %}{% endcapture %}
-{% for post in site.posts %}
-  {% if newscount < 2 %}
-    {% if post.tags contains 'newsdump' %}
-<h3><a href="{{ post.url }}" class="post-preview">{{ post.date | date_to_string }}</a></h3> 
-{{ post.summary | default: post.excerpt }}
+{% for post in site.newsdump %}
+  {% if newscount < 6 %}
+  <h2><a href="{{ post.dest }}" class="post-preview">{{ post.title }}</a></h2>
 {% capture _ %}{% increment newscount %}{% endcapture %}
-    {% endif %}
   {% endif %}
 {% endfor %}
 
-## Blinkies
+# Blinkies
 
 [![the www project](/assets/badges/www.gif)](https://info.cern.ch/hypertext/WWW/TheProject.html)
 [![this site is viewable with any browser](/assets/badges/anybrowser3.gif)](https://anybrowser.org/campaign/)
