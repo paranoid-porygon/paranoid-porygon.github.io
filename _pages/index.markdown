@@ -30,6 +30,8 @@ permalink: /
   {% endif %}
 {% endfor %}
 
+[more noos >>](/newsdump)
+
 # Blinkies
 
 [![the www project](/assets/badges/www.gif)](https://info.cern.ch/hypertext/WWW/TheProject.html)
