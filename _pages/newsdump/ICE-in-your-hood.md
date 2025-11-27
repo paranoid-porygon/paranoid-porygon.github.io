@@ -2,8 +2,6 @@
 layout: default
 title:  "ICE"
 permalink: /newsdump/ICE/
-date: 2025-09-14 
-tags: [ICE, it can happen here]
 published: true
 ---
 

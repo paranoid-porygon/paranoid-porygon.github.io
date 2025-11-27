@@ -25,6 +25,7 @@ Below you'll find the latest posts from my [personal weblog](/blog) as well as [
   {% endif %}
 {% endfor %}
 
+--
 [more bad posts >>](/blog)
 
 ## Latest news
@@ -32,11 +33,12 @@ Below you'll find the latest posts from my [personal weblog](/blog) as well as [
 {% assign news = site.newsdump | sort: 'date' | reverse %}
 {% for post in news %}
   {% if newscount < 6 %}
-  {{ post.date | date_to_string }} - <a href="{{ post.dest }}" class="post-preview">{{ post.title }}</a>
+<a href="{{ post.dest }}" target="_blank" rel="noopener noreferrer">{{ post.date | date_to_string }}</a> - {{ post.title }}
 {% capture _ %}{% increment newscount %}{% endcapture %}
   {% endif %}
 {% endfor %}
 
+--
 [more noos >>](/newsdump)
 
 ## Blinkies
