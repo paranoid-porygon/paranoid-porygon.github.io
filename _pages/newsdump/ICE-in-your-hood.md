@@ -22,7 +22,7 @@ This post will become a dumping ground for news about ICE's activities and resou
 {% assign news = site.newsdump | sort: 'date' | reverse %}
 {% for post in news %}
 {% if post.tags contains 'ICE' %}
-  <h2>{{ post.date | date_to_string }} - <a href="{{ post.dest }}" class="post-preview">{{ post.title }}</a></h2>
+* {{ post.date | date_to_string }} - <a href="{{ post.dest }}" class="post-preview">{{ post.title }}</a>
 {% endif %}
 {% endfor %}
 
