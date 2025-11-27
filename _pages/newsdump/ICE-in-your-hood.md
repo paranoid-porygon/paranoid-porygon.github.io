@@ -19,10 +19,12 @@ This post will become a dumping ground for news about ICE's activities and resou
 
 ## ICE's activities
 
-* [Permanent resident and mother of four arrested by ICE for 10 days over decades-old misdemeanor which is no longer a crime, was not told reason for arrest until after release, denied care for diabetes, asthma while in custody leading to two hospitalizations, repeatedly shuffled between detention centers including one for men only, released 30 miles from home with no phone](https://www.masslive.com/news/2025/08/mass-mom-detained-by-ice-for-10-days-over-decades-old-minor-marijuana-charge.html)
-* [ICE unlawfully arrests worker who had a valid visa during huge Atlanta raid, tried to mandate that he agree to deportation](https://www.theguardian.com/us-news/2025/sep/10/hyundai-factory-ice-raid-legal-visa)
-* [ICE commandeered over 42k agents from other law enforcement agencies to aid in deportation raids, leaving public safety at risk](https://bsky.app/profile/davidjbier.bsky.social/post/3lxzx7rkdk22l)
-
+{% assign news = site.newsdump | sort: 'date' | reverse %}
+{% for post in news %}
+{% if post.tags contains 'ICE' %}
+  <h2>{{ post.date | date_to_string }} - <a href="{{ post.dest }}" class="post-preview">{{ post.title }}</a></h2>
+{% endif %}
+{% endfor %}
 
 ## Related Court rulings
 
