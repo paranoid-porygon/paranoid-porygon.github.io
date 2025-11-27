@@ -7,11 +7,12 @@ layout: null
     <title>{{ site.title | xml_escape }} / Newsdump</title>
     <description>Just the newsdump posts from dubious-disc.blog</description>
     <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <atom:link href="{{ "/newsfeed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.newsdump %}
+    {% assign news = site.newsdump | sort: 'date' | reverse %}
+    {% for post in site.news %}
       <item>
 	<title>{{ post.title | xml_escape }}</title>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
