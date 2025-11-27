@@ -19,13 +19,14 @@ This post will become a dumping ground for news about ICE's activities and resou
 
 ## ICE's activities
 
+<ul>
 {% assign news = site.newsdump | sort: 'date' | reverse %}
 {% for post in news %}
 {% if post.tags contains 'ICE' %}
-* {{ post.date | date_to_string }} - <a href="{{ post.dest }}" class="post-preview">{{ post.title }}</a>
+<li> <a href="{{ post.dest }}" target="_blank" rel="noopener noreferrer">{{ post.date | date_to_string }}</a> - {{ post.title }}</li>
 {% endif %}
 {% endfor %}
-
+</ul>
 ## Related Court rulings
 
 * [Justice Kavanaugh makes it completely clear that the Court's decision to legalize racial profiling is foundationally racist with no basis in legal precedent or fact-based argument](https://www.publicnotice.co/p/kavanaugh-ice-racial-profiling)
