@@ -25,7 +25,7 @@ permalink: /
 {% capture _ %}{% increment newscount %}{% endcapture %}
 {% for post in site.newsdump %}
   {% if newscount < 6 %}
-  <h2><a href="{{ post.dest }}" class="post-preview">{{ post.title }}</a></h2>
+  {{ post.date | date_to_string }} - <a href="{{ post.dest }}" class="post-preview">{{ post.title }}</a>
 {% capture _ %}{% increment newscount %}{% endcapture %}
   {% endif %}
 {% endfor %}
