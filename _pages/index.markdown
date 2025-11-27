@@ -23,7 +23,7 @@ permalink: /
 
 # Latest News
 {% capture _ %}{% increment newscount %}{% endcapture %}
-{% assign news = site.newsdump | sort: 'date' %}
+{% assign news = site.newsdump | sort: 'date' | reverse %}
 {% for post in news %}
   {% if newscount < 6 %}
   {{ post.date | date_to_string }} - <a href="{{ post.dest }}" class="post-preview">{{ post.title }}</a>
