@@ -12,6 +12,7 @@ permalink: /newsdump
 {% endfor %}
 
 -->
-{% for post in site.newsdump %}
+{% assign news = site.newsdump | sort: 'date' %}
+{% for post in news %}
   <h2><a href="{{ post.dest }}" class="post-preview">{{ post.title }}</a></h2>
 {% endfor %}
