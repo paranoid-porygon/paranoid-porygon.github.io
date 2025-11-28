@@ -25,7 +25,7 @@ Below you'll find the latest posts from my [personal weblog](/blog) as well as [
   {% endif %}
 {% endfor %}
 
---
+<p>--</p>
 [more bad posts >>](/blog)
 
 ## Latest news
@@ -38,21 +38,21 @@ Below you'll find the latest posts from my [personal weblog](/blog) as well as [
   {% endif %}
 {% endfor %}
 
---
+<p>--</p>
 [more noos >>](/newsdump)
 
 ## Blinkies
 
-[![the www project](/assets/badges/www.gif)](https://info.cern.ch/hypertext/WWW/TheProject.html)
-[![this site is viewable with any browser](/assets/badges/anybrowser3.gif)](https://anybrowser.org/campaign/)
-[![i use arch btw](/assets/badges/archlinux.gif)](https://archlinux.org/)
-[![i also use coreboot](/assets/badges/coreboot.gif)](https://www.coreboot.org/)
-[![i have literally never met anyone who uses emacs irl](/assets/badges/vim.vialle.love.anim.gif)](https://www.vim.org/)
-[![tested on Firefox](/assets/badges/firefox4.gif)](https://www.firefox.com/en-US/)
-[![windows is dead and windows killed it](/assets/badges/stop.gif)](https://archlinux.org/)
-[![remember to seed your torrents](/assets/badges/seedyourtorrents.gif)](#)
-[![brak now!](/assets/badges/braknow.gif)](https://www.cameo.com/andymerrill2)
-![i survived Y2K but i haven't survived 2038](/assets/badges/y2ks.gif)
-[![yummy lil 88x31 badges](/assets/badges/88by31.gif)](https://cyber.dabamos.de/88x31/index.html)
+[![|the www project|](/assets/badges/www.gif)](https://info.cern.ch/hypertext/WWW/TheProject.html)
+[![|this site is viewable with any browser|](/assets/badges/anybrowser3.gif)](https://anybrowser.org/campaign/)
+[![|i use arch btw|](/assets/badges/archlinux.gif)](https://archlinux.org/)
+[![|i also use coreboot|](/assets/badges/coreboot.gif)](https://www.coreboot.org/)
+[![|i have literally never met anyone who uses emacs irl|](/assets/badges/vim.vialle.love.anim.gif)](https://www.vim.org/)
+[![|tested on Firefox|](/assets/badges/firefox4.gif)](https://www.firefox.com/en-US/)
+[![|windows is dead and windows killed it|](/assets/badges/stop.gif)](https://archlinux.org/)
+[![|remember to seed your torrents|](/assets/badges/seedyourtorrents.gif)](#)
+[![|brak now!|](/assets/badges/braknow.gif)](https://www.cameo.com/andymerrill2)
+![|i survived Y2K but i haven't survived 2038|](/assets/badges/y2ks.gif)
+[![|yummy lil 88x31 badges|](/assets/badges/88by31.gif)](https://cyber.dabamos.de/88x31/index.html)
 
 
