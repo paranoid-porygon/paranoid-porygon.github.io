@@ -7,32 +7,41 @@ title: Home
 permalink: /
 ---
 
-# Blog
+# Home
+
+Welcome to the Dubious Disc Blog, my personal site. I am a believer in POSSE (post own site, share everywhere) and maintain this site in the interest of dodging the algorithmic recommenders and censorship endemic to social media sites. You can find more info about this site and me at the [about page](/about).
+
+Below you'll find the latest posts from my [personal weblog](/blog) as well as [links to news articles](/newsdump) that I think are worth your attention.
+
+## Latest from my blog
 {% capture _ %}{% increment blogcount %}{% endcapture %}
 {% for post in site.posts %}
   {% if blogcount < 6 %}
     {% unless post.tags contains 'newsdump' %}
-<h2><a href="{{ post.url }}" class="post-preview">{{ post.title }}</a></h2>
+<h3><a href="{{ post.url }}" class="post-preview">{{ post.title }}</a></h3>
 {{ post.summary | default: post.excerpt }}
 {% capture _ %}{% increment blogcount %}{% endcapture %}
     {% endunless %}
   {% endif %}
 {% endfor %}
 
+--
 [more bad posts >>](/blog)
 
-# Latest News
+## Latest news
 {% capture _ %}{% increment newscount %}{% endcapture %}
-{% for post in site.newsdump %}
+{% assign news = site.newsdump | sort: 'date' | reverse %}
+{% for post in news %}
   {% if newscount < 6 %}
-  <h2><a href="{{ post.dest }}" class="post-preview">{{ post.title }}</a></h2>
+<a href="{{ post.dest }}" target="_blank" rel="noopener noreferrer">{{ post.date | date_to_string }}</a> - {{ post.title }}
 {% capture _ %}{% increment newscount %}{% endcapture %}
   {% endif %}
 {% endfor %}
 
+--
 [more noos >>](/newsdump)
 
-# Blinkies
+## Blinkies
 
 [![the www project](/assets/badges/www.gif)](https://info.cern.ch/hypertext/WWW/TheProject.html)
 [![this site is viewable with any browser](/assets/badges/anybrowser3.gif)](https://anybrowser.org/campaign/)

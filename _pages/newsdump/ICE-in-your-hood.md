@@ -2,8 +2,6 @@
 layout: default
 title:  "ICE"
 permalink: /newsdump/ICE/
-date: 2025-09-14 
-tags: [ICE, it can happen here]
 published: true
 ---
 
@@ -19,11 +17,14 @@ This post will become a dumping ground for news about ICE's activities and resou
 
 ## ICE's activities
 
-* [Permanent resident and mother of four arrested by ICE for 10 days over decades-old misdemeanor which is no longer a crime, was not told reason for arrest until after release, denied care for diabetes, asthma while in custody leading to two hospitalizations, repeatedly shuffled between detention centers including one for men only, released 30 miles from home with no phone](https://www.masslive.com/news/2025/08/mass-mom-detained-by-ice-for-10-days-over-decades-old-minor-marijuana-charge.html)
-* [ICE unlawfully arrests worker who had a valid visa during huge Atlanta raid, tried to mandate that he agree to deportation](https://www.theguardian.com/us-news/2025/sep/10/hyundai-factory-ice-raid-legal-visa)
-* [ICE commandeered over 42k agents from other law enforcement agencies to aid in deportation raids, leaving public safety at risk](https://bsky.app/profile/davidjbier.bsky.social/post/3lxzx7rkdk22l)
-
-
+<ul>
+{% assign news = site.newsdump | sort: 'date' | reverse %}
+{% for post in news %}
+{% if post.tags contains 'ICE' %}
+<li> <a href="{{ post.dest }}" target="_blank" rel="noopener noreferrer">{{ post.date | date_to_string }}</a> - {{ post.title }}</li>
+{% endif %}
+{% endfor %}
+</ul>
 ## Related Court rulings
 
 * [Justice Kavanaugh makes it completely clear that the Court's decision to legalize racial profiling is foundationally racist with no basis in legal precedent or fact-based argument](https://www.publicnotice.co/p/kavanaugh-ice-racial-profiling)
