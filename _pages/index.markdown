@@ -9,9 +9,9 @@ permalink: /
 
 # Home
 
-Welcome to the Dubious Disc Blog, my personal site. I am a believer in POSSE (post own site, share everywhere) and maintain this site in the interest of dodging the algorithmic recommenders and censorship endemic to social media sites. You can find more info about this site and me at the [about page](/about).
+Welcome to the Dubious Disc Blog, my personal site. I maintain this site in the interest of POSSE (post own site; share everywhere) to try to dodge the algorithmic recommenders and censorship endemic to social media sites. You can find more info about this site and me at the [about page](/about).
 
-Below you'll find the latest posts from my [personal weblog](/blog) as well as [links to news articles](/newsdump) that I think are worth your attention.
+Below you'll find the latest posts from my [personal weblog](/blog) as well as [links to news articles](/newsdump) that I think are worth your attention. I recommend [following](/feed.xml) [both](/newsfeed.xml) using your favorite RSS/atom feed reader.
 
 ## Latest from my blog
 {% capture _ %}{% increment blogcount %}{% endcapture %}
