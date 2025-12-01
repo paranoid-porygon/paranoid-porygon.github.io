@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Homelab: Quickly setting up SyncThing as a Dropbox replacement"
-summary: "Very quick and easy setup if you already have a TrueNAS [Scale] machine up and running"
+summary: "Very quick and easy SyncThing setup if you already have a TrueNAS [Scale] machine up and running"
 date: 2025-12-01  
 tags: [homelab, dealgorithming]
 published: true
@@ -28,7 +28,7 @@ After that point, continue following the video tutorial for client setup.
 
 ## "Server" setup on TrueNAS Scale
 
-<iframe width="100%" src="https://www.youtube-nocookie.com/embed/ITro3Bws7JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/ITro3Bws7JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [syncthing]: https://syncthing.net/
 [keepass]: https://keepassxc.org/
