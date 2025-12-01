@@ -11,7 +11,7 @@ excerpt_separator: <!--excerpt-->
 	    {% if tag != page.tags[0] %}, {% endif %}<a href="/blog/tags#{{ tag }}">{{ tag }}</a>
             {% endfor %}
 	]</nav>
-	<div class="post-date"> last updated: {{ page.date | date_to_string  }}</div>
+	<div class="post-date"> last updated: {{ page.last_updated | default: page.date | date_to_string  }}</div>
     </header>
     {{ content }}
     <hr>
