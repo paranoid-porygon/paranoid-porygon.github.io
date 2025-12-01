@@ -7,6 +7,7 @@ published: true
 ---
 
 A couple years ago, inspired by the the WWSD project and my friends (justifiably) peer pressuring me to ditch the antiquated commie guns and just get an AR, I took advantage of Black Friday/Cyber Monday deals and built a very simple, lightweight, inexpensive AR-15. The result was such a phenomenal success that I want to share it with you all.
+
 | Item                                                      | Price   | Note                                                                      | Link                                                                                                                                              |
 |-----------------------------------------------------------|---------|---------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | PSA Pencil Barrel Complete Upper                          | $379.99 | Comes with iron sights                                                    | [link](https://palmettostatearmory.com/psa-16-mid-length-pencil-5-56-nato-1-7-nitride-15-lightweight-m-lok-upper-with-bcg-ch-mbus-sight-set.html) |
