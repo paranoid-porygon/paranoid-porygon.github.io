@@ -13,7 +13,7 @@ I had [written previously](/blog/laptop-wishlist) about what qualities I would w
 
 [Star Labs][star-labs] is a Linux-first hardware manufacturer based in the UK that makes reasonably priced boutique (as much as those two adjectives can coexist) computers built around x86_64 processors. They fall in the middle between the high-priced security-focused [Purism][purism] computers that are made entirely outside of China and run FOSS software by default, and the build-it-yourself Framework laptops: Star Labs does have hardware that is manufactured in China, however they are assembled in the UK and run [Coreboot][coreboot] by default in order to disable the [Intel Management Engine][ime], *and* their warranty allows for user repairs of their hardware for which they sell parts and tools on their web store.
 
-
+Star Labs makes computers in a variety of form factors, from regular sized ultrabooks to mini PCs. They even make a tablet, the Star Lite MkV, that I read positive reviews about. 
 
 [minifree]: 
 [star-labs]:
