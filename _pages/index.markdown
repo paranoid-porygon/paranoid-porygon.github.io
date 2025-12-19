@@ -34,7 +34,7 @@ Below you'll find the latest posts from my [personal weblog](/blog) as well as [
 {% for post in news %}
   {% if newscount < 6 %}
 <!-- <a href="{{ post.dest }}" target="_blank" rel="noopener noreferrer">{{ post.date | date_to_string }}</a> - {{ post.title }} -->
-    {% include newsdump.html dest=post.dest date=post.date title=post.title %}
+    {% include newsdump.html post=post %}
 {% capture _ %}{% increment newscount %}{% endcapture %}
   {% endif %}
 {% endfor %}
