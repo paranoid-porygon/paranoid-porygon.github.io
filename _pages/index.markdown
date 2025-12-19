@@ -33,7 +33,8 @@ Below you'll find the latest posts from my [personal weblog](/blog) as well as [
 {% assign news = site.newsdump | sort: 'date' | reverse %}
 {% for post in news %}
   {% if newscount < 6 %}
-<a href="{{ post.dest }}" target="_blank" rel="noopener noreferrer">{{ post.date | date_to_string }}</a> - {{ post.title }}
+<!-- <a href="{{ post.dest }}" target="_blank" rel="noopener noreferrer">{{ post.date | date_to_string }}</a> - {{ post.title }} -->
+    {% include newsdump.html post=post %}
 {% capture _ %}{% increment newscount %}{% endcapture %}
   {% endif %}
 {% endfor %}
