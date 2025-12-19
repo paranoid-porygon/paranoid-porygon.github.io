@@ -30,6 +30,8 @@ After that point, continue following the video tutorial for client setup.
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/ITro3Bws7JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+{% include youtube.html yt_url="https://www.youtube-nocookie.com/embed/ITro3Bws7JQ" %}
+
 [syncthing]: https://syncthing.net/
 [keepass]: https://keepassxc.org/
 [vimwiki]: https://vimwiki.github.io/
