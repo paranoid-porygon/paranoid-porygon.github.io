@@ -14,5 +14,15 @@ permalink: /newsdump
 -->
 {% assign news = site.newsdump | sort: 'date' | reverse %}
 {% for post in news %}
-  <p>{{ post.date | date_to_string }} - <a href="{{ post.dest }}" class="post-preview">{{ post.title }}</a></p>
+  {% assign currentyear = post.date | date: "%Y" %}
+  {% assign currentmonth = post.date | date: "%B" %}
+  {% if currentyear != year %}
+<h2>{{ currentyear}}</h2>
+    {% assign year = currentyear %}
+  {% endif %}
+  {% if currentmonth != month %}
+<h3>{{ currentmonth }}</h3>
+    {% assign month = currentmonth %}
+  {% endif %}
+{% include newspost.html post=post %}
 {% endfor %}
