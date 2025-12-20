@@ -17,11 +17,11 @@ permalink: /newsdump
   {% assign currentyear = post.date | date: "%Y" %}
   {% assign currentmonth = post.date | date: "%B" %}
   {% if currentyear != year %}
-<h2>{{ currentyear}}</h2>
+<h2 id="{{ currentyear }}">{{ currentyear}}</h2>
     {% assign year = currentyear %}
   {% endif %}
   {% if currentmonth != month %}
-<h3>{{ currentmonth }}</h3>
+<h3 id="{{ currentyear }}-{{ currentmonth }}">{{ currentmonth }}</h3>
     {% assign month = currentmonth %}
   {% endif %}
 {% include newspost.html post=post %}
