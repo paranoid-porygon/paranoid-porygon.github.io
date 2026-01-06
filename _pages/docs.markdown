@@ -8,7 +8,9 @@ permalink: /docs/
 
 # Miscellaneous Documents
 
-## Food Stuff
+## Health and Wellness
+
+### Food Stuff
 
 [The Main Culprits in America's Diet Problem](/docs/american-diet-culprits)
 
