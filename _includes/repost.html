@@ -1,11 +1,4 @@
-{{ include.post.date | date_to_string }} - [
-	{% for tag in include.post.tags %}
-		{% if tag != include.post.tags[0] %}
-, 
-		{% endif %}
-<a href='/reposts#{{ tag }}'>{{ tag }}</a>
-	{% endfor %}
-]
+{{ include.post.date | date_to_string }} - [{% for tag in include.post.tags %}{% if tag != include.post.tags[0] %}, {% endif %}<a href='/reposts#{{ tag }}'>{{ tag }}</a>{% endfor %}]
 {% if include.post.is_youtube %}
 {% include youtube.html yt_url=include.post.dest %}
 {% elsif include.post.is_img %}
