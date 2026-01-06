@@ -28,6 +28,19 @@ Below you'll find the latest posts from my [personal weblog](/blog) as well as [
 <p>--</p>
 [more bad posts >>](/blog)
 
+## Latest reposts
+{% capture _ %}{% increment postscount %}{% endcapture %}
+{% assign posts = site.reposts | sort: 'date' | reverse %}
+{% for post in posts %}
+  {% if postscount < 6 %}
+{% include repost.html post=post %}
+{% capture _ %}{% increment postscount %}{% endcapture %}
+  {% endif %}
+{% endfor %}
+
+<p>--</p>
+[more poasts >>](/reposts)
+
 ## Latest news
 {% capture _ %}{% increment newscount %}{% endcapture %}
 {% assign news = site.newsdump | sort: 'date' | reverse %}
