@@ -4,7 +4,7 @@ title:  "How to make Windows 11 installation/recover media from linux"
 summary: "Summarizing the process in case it helps someone else."
 date:   
 tags: [i use arch btw, computer stuff]
-published: false
+published: true
 ---
 
 I helped my partner's much younger brother build a gaming PC last weekend and opted to install Windows 11 on it partially to allow him to easily mod games, partially because he already has a Steam Deck running linux, but mostly because he has no experience with Windows and he probably should learn before starting college/any sort of office job.
