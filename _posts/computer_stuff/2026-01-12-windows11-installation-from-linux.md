@@ -2,7 +2,6 @@
 layout: post
 title:  "How to make Windows 11 installation/recover media from linux"
 summary: "Summarizing the process in case it helps someone else."
-date:   
 tags: [i use arch btw, computer stuff]
 published: true
 ---
