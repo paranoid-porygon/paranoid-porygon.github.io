@@ -15,6 +15,10 @@ I had set my expectations way too high for a debut novel written by an academic 
 
 The prose, to be blunt, made me feel like I was reading a novel written for young adults.
 
+The worldbuilding never takes the time to sit with its ideas and their implications. Abolishing historical boundaries and replacing them with population-contingent ones would surely have some huge cultural and identity-related consequences; why weren't these more fully explored? There is a lot of globe trotting (to the point that it almost felt like the author was trying to flex by name dropping places she had been to herself) but not much time was dedicated to exploring how these locales have changed since the new electoral system was implemented. Not much time is dedicated to explaining how the various different governments are different from each other; I can't tell you what major differences there were between Liberty and Heritage, who you would think would be different enough that they couldn't both be frontrunners if they were vying over the same voting base.
+
+There is a lot of obvious self-insertion in Informocracy, which isn't intrinsically bad or by itself worthy of detraction. But some of it came with the obvious expectation that readers would silently nod and say, "yes, I understand and this is good and I need no further sales pitch as to why I should root for this." For instance, Policy1st feels like the author's dream party: an evidence-based policy shop that would appeal to scientists and self-styled intellectuals, but beyond that their guiding philosophy is unclear (are they utilitarian? liberal? social democratic? meritocratic? can you only hold office if you have a graduate degree? I have personally known academics who subscribed to a variety of ideologies, some more regressive and illiberal than others, while all claiming to priotize evidence-informed decision making).
+
 # Liberty aggression built up throughout the book and then never carried through, abruptly defused
 
 # hints that Information is behind everything but then not fleshed out
