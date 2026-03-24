@@ -20,6 +20,10 @@ What follows is a writeup of what I did and what parts I used. There are a varie
 
 # Installing the ROM
 
+I learned about Crystal Clear sometime during the COVID-19 lockdown of 2020; several of my friendgroup took up Twitch streaming during that time to make up for our reduced social interactions, and one of them streamed an emulated playthrough of Crystal Clear. Intrigued, I went through the required hoops to get a copy for myself. You could do this legitimately by getting a hardware ROM dumping tool and using it to backup your own physical copy of Pokemon Crystal Version (and let's say that's exactly what I did), but there are other methods to [acquire a ROMfile][3] if needed. You will then need to [join the official Crystal Clear Discord server][4] which at time of writing this is the current distribution channel for the game patch. You will then need to use a [patching utility][5] to modify your vanilla Crystal ROM to Crystal Clear, and make sure you pay attention to if you have a 1.0 or 1.1 version of the game; the utility will warn you if you are patching the wrong version.
+
+After generating your patched ROMfile, you'll need a flashable cartridge that supports the needed size and realtime clock (RTC) functionality required by Crystal Clear. You can get one that is flashable via USB-C [here][6], but be forewarned that they are frequently out of stock and ship from Australia.
+
 # Modifying the Gameboy
 
 One hard rule I established for this project was that no permanent modifications could be made to the motherboard. No soldering anything new onto the board, and no desoldering anything unless it was completely corroded or nonfunctional. This was a concern I had with the speaker before I got the thing opened up, but fortunately there was no apparent (or at least severe) corrosion on the speaker, and wiping it down as well as cleaning the volume potentiometer with a hefty amount of isopropyl alcohol mostly fixed the volume issues I noticed during pre-refurb testing. I was lucky enough to not have to solder anything new to the board, and it remains in factory condition 27 years later.
@@ -38,3 +42,7 @@ I said before how the OEM screen is best viewed in direct sunlight. I suspect th
 
 [1]:
 [2]:
+[3]:
+[4]:
+[5]:
+[6]:
