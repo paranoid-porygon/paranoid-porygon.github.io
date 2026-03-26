@@ -22,11 +22,11 @@ In the leadup to the hike, I made sure to walk 3 miles a day before breakfast ev
 
 ### Rifle 
 
-I had used Black Friday as an opportunity to build a completely new upper for my main AR. I purchased parts that closely approximated a WWSD upper (the only deviations being a 7075 aluminum receiver with a forward assist and a nitride bolt carrier group as opposed to a chrome one) and had a local shop put it all together since I do not have the means to weld a muzzle device to a barrel. I attached this to the PSA lower that I had been using and proceeded to take this to my home range and zero my optics and adjust the gas settings.
+I had used Black Friday as an opportunity to build a completely new upper for my main AR. I purchased parts that closely approximated a [WWSD][wwsd] upper (the only deviations being a 7075 aluminum receiver with a forward assist and a nitride bolt carrier group as opposed to a chrome one) and had a local shop put it all together since I do not have the means to weld a muzzle device to a barrel. I attached this to the PSA lower that I had been using and proceeded to take this to my home range and zero my optics and adjust the gas settings.
 
 Shortly thereafter, I had the opportunity to trade an AK I was not using for an honest-to-God WWSD CDR rifle. Exceited to have a KP-15 lower again (I regrettably sold my last one), I swapped it out for the PSA lower to get my own 90% WWSD rifle. The weekend before the hike, I took it to my home range to function check everything only to discover that the buffer weight in the KP-15 was significantly lighter than what I was using before and as a result was much louder and gassier. I adjusted the gas system as much as needed and stopped changing things...except that I noticed my LPVO was a bit loose on one of the quick release levers, so I tightened it and prayed it would not severely impact my zero.
 
-I zeroed both my LPVO and offset red dot using Hornady Frontier 75gr BTHP 5.56 ammo with a 50-yard zero for both optics. I used the 50-yard zero because it seemed like the best "set and forget" option, and also because my LPVO has hash marks on the reticle above the center crosshair, which I used to figure out my 100-yard hold. While this approach makes sense for a "combat zero", it's not quite as good for a more precision-oriented application, which the hike ended up being.
+I zeroed both my LPVO and offset red dot using [Hornady Frontier 75gr BTHP 5.56][75gr] ammo with a 50-yard zero for both optics. I used the 50-yard zero because it seemed like the best "set and forget" option, and also because my LPVO has hash marks on the reticle above the center crosshair, which I used to figure out my 100-yard hold. While this approach makes sense for a "combat zero", it's not quite as good for a more precision-oriented application, which the hike ended up being.
 
 ### Load-bearing Equipment
 
@@ -47,4 +47,6 @@ My teammate and I also pre-ordered sub sandwiches for food that day. I opted to 
 # Feedback 
 
 [bandolier]:
+[wwsd]:
+[75gr]:
 
