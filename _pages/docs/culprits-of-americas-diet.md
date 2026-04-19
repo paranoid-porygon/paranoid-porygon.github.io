@@ -53,5 +53,5 @@ Vegetables are a source of nutrients not found in any other food group. They are
 **Recommendation:** aim to eat at least five different color vegetables every day.
 
 * [Humans living in cities are losing the ability to digest plants](https://www.sciencealert.com/humans-living-in-cities-are-slowly-losing-their-ability-to-digest-plants)
-
+* [New American Heart Association guidelines say to eat more veggies, plant oils, and plant-based protein](https://www.npr.org/2026/04/05/nx-s1-5770641/new-aha-guidelines-on-healthy-eating-emphasize-plants-olive-oil-limit-saturated-fat)
 
