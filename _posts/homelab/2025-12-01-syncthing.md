@@ -28,7 +28,7 @@ After that point, continue following the video tutorial for client setup.
 
 ## "Server" setup on TrueNAS Scale
 
-{% include youtube.html yt_url="https://www.youtube-nocookie.com/embed/ITro3Bws7JQ" %}
+{% include youtube.html vid="ITro3Bws7JQ" %}
 
 [syncthing]: https://syncthing.net/
 [keepass]: https://keepassxc.org/
