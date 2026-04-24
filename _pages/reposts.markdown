@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reposts
+title: reposts
 permalink: /reposts/
 ---
 

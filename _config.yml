@@ -81,6 +81,9 @@ defaults:
 sass:
   style: compressed
 
+paginate: 10
+pagination_path: "/blog/page:num/"
+
 collections:
   - newsdump
   - reposts
