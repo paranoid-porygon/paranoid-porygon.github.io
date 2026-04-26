@@ -1,7 +1,7 @@
 {% if include.post.is_youtube %}
 	{% include youtube.html yt_url=include.post.dest %}
 {% elsif include.post.is_img %}
-	{% include img.html alt_text=include.post.title asset_path=reposts/include.post.dest %}
+	{% include img.html alt_text=include.post.title asset_path=include.post.dest %}
 {% else %}
 <h3><a href="{{ include.post.dest }}" target="_blank" rel="noopener noreferrer">{{ include.post.title }}</a></h3>
 {% endif %}
