@@ -45,14 +45,59 @@ The example for this condition is the post-WWII Philippines.
 
 #### Loss of hope
 
+Even if a country exhibits anocracy, factionalism, and a faction experiencing real or perceived downgrading, that is not a guarantee that civil war will spontaneously break out. The rubicon that needs to be crossed is when members of a downgraded faction feel that all hope is lost. In the author's words:
+
+> It's when a group looks into the future and sees nothing but additional pain that they start to see violence as their only path to progress.
+
+And when hope is lost in legitimate channels for redress of grievances, extremists will step in to offer quasi-legal or blatantly illegal alternatives. When protests fail and voting either doesn't exist or isn't legitimate, violence ends up looking like the only path forward.
 
 The author cites the failure of Irish Catholics' peaceful protests and petitioning and the subsequent Battle of the Bogside where British MPs turned on Irish civillians, which led to a total loss of hope for a peaceful solution and the beginning of The Troubles.
+
+The author also highlights how elections can be destabilizing events in highly factionalized anocracies, particularly if a downgraded group loses. She points out how countries with majoritarian presidential systems are more likely to experience civil war than any other system; proportional representation saw zero civil wars betwen 1960 and 1995. 
+
+Civil wars are also usually spurred on by small groups of dedicated extremists.
  
 ### The author really hates social media, and she's right
 
-There is no better case study for why social media companies are profoundly evil than the Rohingya Genocide in Myanmar, and that is exactly the example the author uses.
+The author makes the case that social media is on net a massive detriment to human flourishing. This isn't a difficult case to make: it's easier to spew bullshit at scale than it is to debunk it. The author cites correlative statistics that show that conflict increased in sub-Saharan Africa after Facebook, YouTube, and Twitter entered that market in 2015. 
+
+The author argues that social media's business model which hinges on engagement is the reason why the effects are as bad as they are. She cites evidence that YouTube is a known disinformation pipeline.
+
+There is no better case study for why social media companies are profoundly evil than the Rohingya Genocide in Myanmar, and that is exactly the example the author uses. Facebook and cellular internet service arrived in Myanmar at roughly the same time, and shortly thereafter the Buddhist majority conducted an ethnic cleansing campaign against the Muslim minority. Facebook's role in instigating this genocide was indisputable.
 
 ### We're pretty fucking close
+
+Going down the list of criteria in order:
+
+#### Anocracy
+
+After the 2016 election, the US dropped to a +8 on the Polity Score. In 2019, it dropped to a +7. In 2020, it dropped to a +5, which is within the anocracy zone. At the time of the publication of the book in 2023, the US's Polity Score rose back to +8. As of 2026, the US is [still rated as a +8][current-polity].
+
+#### Factionalism
+
+Nixon's Southern Strategy transformed the Republican Party into a white Christian identitarian party. By the time Obama entered office, politics in the US has become overwhelmingly identitarian; see the fixation on Obama's alleged Muslim religion or the birther conspiracy theory. This intertwining of party and identity is strong evidence for the US having factionalized.
+
+#### Downgrading
+
+The election the first Black president was seen by white identitarians as a status downgrade, further demonstrated by shifting racial demographics in the US; whites are projected to no longer by a 50% majority by 2045. Trump capitalized on this and amplified white, male, Christian, and rural grievance via Twitter to rile up identitarians; evidence shows that voters that broke for Trump did so over fears of identity status downgrade, **not** economic downgrade.
+
+#### Loss of hope
+
+The January 6th putsch was evidence that the white identitarians had lost hope, even if only for a moment. Since then, the US has exited the anocracy zone and thus minimized the likelihood of civil war. However, if Republicans had lost the 2024 election, that might have solidified the loss of hope and inspired insurgency.
+
+#### Stages of insurgency
+
+The author cites a CIA report about how insurgencies start and the stages they go through.
+
+The *pre-insurgency stage* is where a group identifies common grievances and a founding myth. For white extremists in the US, the author argues this likely happened in the aftermath of Ruby Ridge and Waco, and the number of militias in the US jumped after the 2008 electino of Barack Obama.
+
+The *incipient conflict stage* is when insurgents engage in discrete acts of violence in order to broadcast their mission, build support, and provoke a government overreaction. The Oklahoma City bombing was the earliest example of this in the modern militia movement, the author argues. The perpetrators of these attacks, like McVeigh and Nichols, are usually erroneously written off as lone wolf actors.
+
+The *open insurgency stage* is when extremists participate in sustained violence involving terrorism, guerilla warfare, targeted assassinations, ambushes, and raids on police and military. These attacks might be carried out by coordinated and highly-skilled groups.
+
+#### What it all adds up to
+
+The author says that, as of 2023, we are a highly factionalized society on the edge of anocracy and currently in the incipient conflict stage.
 
 ### Years of Lead 2: Electric Boogaloo
 
@@ -61,3 +106,19 @@ The author starts the 7th chapter with a speculative account of what organized c
 
 
 ### Prevention
+
+The author lays out a handful of vague policy proposals that I wish were more detailed and specific. 
+
+## My takeaway
+
+In 2024 while I was working as an investigator for a cybersecurity firm, I had begun preliminary research on certain communities that I suspected might be a launchpad for militant extremism. I had a conversation with my boss where I predicted that if Harris won the 2024 election, we would see a sustained uptick in right-wing political violence that might become increasingly organized, but if Trump won that we might actually see the beginnings of left-wing political violence. Unfortunately that turned out to be correct, though people often argue with me about what constitutes left wing violence (to be clear: the UHC CEO assassination, the Kirk assassination, the attack on the Dallas ICE facility, and the third attempted Trump assassinations all were left-wing violence; the first two attempted Trump assassinations were not).
+
+Trump's reelection temporarily staved off the "loss of hope" that white identitarians might have felt. If they succeed at ratfucking voting rights in the US before 2028, we will undoubtedly dip into the anocracy zone, and the group opposed to the white identitarians will feel downgraded and a loss of hope. Even still, there are factors that make them less likely to engage in insurgency than the right-wing: ideological commitment to nonviolence, living in the heavily surveilled urban core, lack of widespread gun culture or valorization of violence. But there are exceptions to that: a number of rural members of the far left are dispositionally very similar to the far right and don't have the distaste for violence that urban liberals have. Some of the organized groups (Socialist Rifle Association, Redneck Revolt, the various John Brown Gun Clubs) are already under active scrutiny by the federal government. 
+
+The author argues that left-wing groups are not going to start violence for a handful of reasons. She claims that because left-wing groups are made up of historically repressed ethnic minorities that they would be less willing to risk their own safety than white identitarian militias. She also argues that the left-wing's ideological diversity would make it difficult for them to coordinate (or eat their own; see "Homage to Catalonia"). Finally, she argues that left-wing groups have less to loose from a changing world and would gain much less from violence.
+
+I broadly disagree with this assessment. The author seems to be unfamiliar with how many armed leftists are white, and many of them were raised in right-leaning rural communities and are dispositionally very similar to right-wingers; they might have token or superficial differences --e.g. they might be queer-- but they otherwise share a close resemblance to the easily agitated members of right-wing militias. While she is right that ideological diversity would eventually lead left-wing groups to fragment, their shared distates for the right (and neoliberals, and even liberals in some cases) would be an early unifying cause. And I again think that she is naive about whether left-wing groups stand to gain from maintaining a liberal order; even a cursory examinatino of some left-wing spaces on social media reveal that members of the far left consider people like Will Stancil to be a bigger threat than Donald Trump. 
+
+We can argue about whether or not these "internet leftists" are representative of how leftists that aren't chronically online behave, but the author acknowledged that social media is an accelerant for extremism, and these online agitators will send each other (and impressionable young people) into a doomer feedback loop until one (or several) crack and commit acts of violence. We've seen isolated attacks up to this point, but if voting rights are meaningfully diminished and the GOP wins in 2028, I expect that the far-left will lose hope and begin to engage in more coordinated acts of violence.
+
+[current-polity]: https://worldpopulationreview.com/country-rankings/polity-data-series-by-country
