@@ -103,11 +103,20 @@ The author says that, as of 2023, we are a highly factionalized society on the e
 
 The author starts the 7th chapter with a speculative account of what organized civil conflict in the US could look like. In short, it's the Years of Lead that Italy went through: asymmetric attacks on public infrastructure, civilian population centers where "undesirables" live or work, targeted attacks on politicians or public figures, and disinformation campaigns executed under the fog of war. 
 
+The author particularly warns about a phenomenon known as *leaderless resistance*, where an insurgent group intentionally decentralizes and relies on memes, lore, and word of mouth to allow their cause to spread, often leading to isolated adherents to engage in direct action on their behalf. Social media has enabled individuals and cells to coordinate in ways that weren't possible in the pre-internet age.
+
+Another concern is when extremist groups engage in *outbidding*, which is where they compete to appear more "effective" at affecting change, which usually looks like escalation of violence. The example the author gives is when Hamas "outbid" Fatah. At time of publication, this had not yet occurred in the US. Additionally, the author highlights the tendancy of extremists to engage in *spoiling*, namely undoing the efforts by more moderate groups to compromise with the government. 
 
 
 ### Prevention
 
 The author lays out a handful of vague policy proposals that I wish were more detailed and specific. 
+
+* strengthening the federal governmnet to instill faith in public services and also improve capacity to suppress violence and civil disorder
+    * rule of law
+    * voice and accountability
+    * government effectiveness
+*  
 
 ## My takeaway
 
