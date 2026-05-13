@@ -26,3 +26,6 @@ I might use uncommon phrases, technical terms, slang, or shorthand on occassion 
 
 **Dealgorithming** - the act of extricating oneself from algorithmically generated recommender systems or feeds, or the more general act of divesting from Big Tech's ecosystem of services and apps
 
+**Far-Centrism** - similar to Radical Centrism, but instead of treating moderation as a virtue until itself, *Far-Centrism* is the valorization of remaining "apolitical" even beyond the point of reason or good sense
+
+**Pervasive Libertarianism** - also sometimes **Pernicious Libertarianism**; a belief that gained purchase in online communities and spaces sometime in the late 2000's that claims that not only is freedom of choice or taste a virtue unto itself but also that criticizing 
