@@ -113,10 +113,22 @@ Another concern is when extremist groups engage in *outbidding*, which is where 
 The author lays out a handful of vague policy proposals that I wish were more detailed and specific. 
 
 * strengthening the federal governmnet to instill faith in public services and also improve capacity to suppress violence and civil disorder
-    * rule of law
-    * voice and accountability
-    * government effectiveness
-*  
+    * rule of law: equal and impartial application of the law
+    * voice and accountability: the extent to which citizens are able to participate in selecting their government, as well as freedom of expression, association, and media
+    * government effectiveness: the quality of public services and the quality and independence of the civil service
+* bolstering voting access and integrity:
+    * strengthing the VRA (which is has been made more difficult in the wake of [Louisiana v. Callais][vra])
+    * automatic voter registration
+    * restrict campaign spending and private donations
+    * end gerrymandering at the federal level
+* abolish the Senate (she doesn't call for this explicitly but heavily implies it)
+* abolish the electoral college
+* reverse Citizens United
+* improve civics education and engagement for adult Americans
+    * the US spends 1,000x more on STEM than on civics
+* root out extremists in the military, law enforcement, and federal agencies
+* renew federal government's commitment to help those most vulnerable, regardless of race or location
+* regular social media more heavily to prevent amplication of disinformation and propaganda (the author is not specific about how to do this without blatantly violating the First Amendment, but if the TikTok ban/forced sale was not unconstitutional then there might be something to this)
 
 ## My takeaway
 
@@ -134,4 +146,10 @@ I broadly disagree with this assessment. The author seems to be unfamiliar with 
 
 We can argue about whether or not these "internet leftists" are representative of how leftists that aren't chronically online behave, but the author acknowledged that social media is an accelerant for extremism, and these online agitators will send each other (and impressionable young people) into a doomer feedback loop until one (or several) crack and commit acts of violence. We've seen isolated attacks up to this point, but if voting rights are meaningfully diminished and the GOP wins in 2028, I expect that the far-left will lose hope and begin to engage in more coordinated acts of violence.
 
+## We might already be in a cold civil war
+
+A couple months ago, I remarked out the gerrymandering arms race taking place between Texas and California was the opening salvo in a cold civil war. Today, the opinionists over at The Bulwark said [the exact same thing with the exact same words][cold-civil-war]. I don't know how this will play out (and I'm not yet a paying Bulwark subscriber so I can't tell you how they think it'll play out, either). But our winner-take-all political system is going to keep us on a cyclical path towards factionaization and balkanization until we radically alter our political system.
+
 [current-polity]: https://worldpopulationreview.com/country-rankings/polity-data-series-by-country
+[vra]: https://www.scotusblog.com/cases/louisiana-v-callais-2/
+[cold-civil-war]: https://www.thebulwark.com/p/a-civil-cold-war-is-coming
