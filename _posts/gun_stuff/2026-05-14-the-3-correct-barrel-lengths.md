@@ -53,15 +53,15 @@ For 11.5", I would defer to the FBI ballistics lab and run their precious 64gr b
 
 Each of these three barrel lengths is "correct" as long as they are chosen commensurate to your intended use case, and so long as your intended use case is realistic. We can think about which length to choose as a flow chart:
 
-**Do you intend to use your AR-15 for home defense?**
-├No
-│ └**18"**
-└Yes
-  └**Do you plan to suppress your AR-15? (you should)**
-    ├Yes
-    │ └**11.5"**
-    └Yes, except when I'm at a match
-      └**14.5"**
+**Do you intend to use your AR-15 for home defense?**<br/>
+├No<br/>
+│ └**18"**<br/>
+└Yes<br/>
+  └**Do you plan to suppress your AR-15? (you should)**<br/>
+    ├Yes<br/>
+    │ └**11.5"**<br/>
+    └Yes, except when I'm at a match<br/>
+      └**14.5"**<br/>
 
 I'm glad we have this finally, definitively figured out. I want to thank all the gun industry shills on YouTube for negatively polarizing me against whatever gimmicky bullshit they try to convince me to purchase in a given month, the reddit hivemind that all respond "hot" and "this is tits" whenever they see the same exact iteration of an 11.5" build posted on r/AR15 which convinced me that it's the barrel length of people who never shoot competitively, and all the autistic Gen-X regulars on Arfcom that know everything about 5.56 ballistics but have zero idea why their wife wants a divorce or why the economy keeps shitting the bed whenever there's a Republican president. None of this could have been possible without you. <3
 
