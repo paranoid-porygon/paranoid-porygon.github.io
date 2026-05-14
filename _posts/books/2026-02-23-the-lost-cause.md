@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Book Review - The Lost Cause by Cory Doctorow"
+title:  '"The Lost Cause" by Cory Doctorow'
 summary: "Preachy fantasy wish-fulfillment for a Californian-Canadian"
 tags: [books]
 published: true

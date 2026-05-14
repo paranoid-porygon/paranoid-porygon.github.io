@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "(Book Review) How to Win an Information War"
+title:  '"How to Win an Information War" by Peter Pomerantsev'
 tags: [books]
 published: true
 ---

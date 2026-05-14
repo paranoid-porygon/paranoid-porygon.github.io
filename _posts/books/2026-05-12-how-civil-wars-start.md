@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How Civil Wars Start"
+title:  '"How Civil Wars Start" by Barbara F. Walter'
 summary: "A book with some obvious, but nonetheless worth enumerating, warning signs."
 last_updated:
 tags: [books, conflict studies, extremism]
@@ -10,8 +10,6 @@ published: true
 "How Civil Wars Start, and How to Stop Them" is nonfiction for a popular audience written by political scientist and relevant subject matter expert Barbara F. Walter. It's a pretty strong candidate for "this book could have been an article," but in this case doesn't mean it isn't worth your time. My only major gripe is that in the last chapter about how to actually prevent civil wars, she gives a lot of nondescript policy proposals (specifically regarding regulation of social media) that I wish had been more specific; it's easy to predict how those kinds of laws would be challenged in court, and I'd like to see more robust recommendations. Otherwise, the content about the necessary conditions for civil war to break out is worth picking up the book if you aren't a freak who already has a non-US passport and/or stockpile of trauma first aid stuff shoved in every backpack, purse, and bag you own.
 
 I actually first heard about this book when YouTube recommended me an interview with the author, and I then saw it at Barnes&Noble very shortly thereafter. Maybe this was blitz marketing and maybe I got incepted by social media into making this purchase, but the content matter is absolutely in my wheelhouse (i.e. conflict and extremism in the social media age) and I probably would have purchased it anyways.
-
-
 
 ## Summary
 
