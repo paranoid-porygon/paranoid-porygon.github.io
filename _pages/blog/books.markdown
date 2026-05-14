@@ -9,6 +9,6 @@ permalink: /blog/book-reviews
   {% if post.tags contains 'books' %}
 <h2><a href="{{ post.url }}" class="post-preview">{{ post.title }}</a> </h2> 
 {{ post.excerpt | default: post.summary }}
-  {% endunless %}
+  {% endif %}
 {% endfor %}
 
