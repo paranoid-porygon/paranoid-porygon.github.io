@@ -8,13 +8,11 @@ permalink: /blog
   {% unless post.tags contains 'newsdump' %}
 <h2><a href="{{ post.url }}" class="post-preview">{{ post.title }}</a> </h2> 
 └─{{ post.date | date_to_string }} - [{% for tag in post.tags %}{% if tag != post.tags[0] %}, {% endif %}<a href='/blog/tags#{{ tag }}'>{{ tag }}</a>{% endfor %}]
-<!--
-<nav>[
+<!--<nav>[
     {% for tag in post.tags %}
 	{% if tag != post.tags[0] %}, {% endif %}<a href="/blog/tags#{{ tag }}">{{ tag }}</a>
     {% endfor %}
-]</nav>
--->
+]</nav>-->
 {{ post.excerpt | default: post.summary }}
   {% endunless %}
 {% endfor %}
