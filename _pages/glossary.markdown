@@ -10,6 +10,12 @@ I might use uncommon phrases, technical terms, slang, or shorthand on occassion 
 
 **DNF** - "did not finish"; used to denote when a reader failed or declined to read a book all the way through
 
+**SWERF** - Sex Worker Exclusionary Radical Feminist; pejorative; a feminist (typically second wave) that opposes sex work on the grounds that it entrenches sexist notions (primarily held by men) towards women, specifically the reduction of womanhood to being an object of male sexual desire; they cite the demand for sex work being disporportionately from men for women
+
+**TBR** - "to be read"; used to denote books that are in my queue to read soon...or eventually
+
+**TERF** - Trans Exclusionary Radical Feminist; pejorative; a feminist (often but not exclusively second wave) that believes that transwomen's issues are not part of the broader feminist project; these feminists often reject the idea of gender (aka gender abolitionism) and view it as a means of control instituted by patriarchy and outright deny the sex-gender distinction, whereas trans-inclusive feminists view gender as a social construct that is related to but distinct from sex
+
 **WWSD** - "What would Stoner do?", in reference to Eugene Stoner who invented the AR-15/M-16 rifle; a concept rifle cooked up by Karl Kasarda, Ian McCullum, and Russel Phagan of InRange TV fame which inclusdes a pencil barrel, carbon fiber handguard, chrome-lined bolt carrier group, an upper receiver with no forward assist, a monolithic polymer lower receiver, and a caputred buffer system, all of which in the interest of creating a lightweight, no-frills, but practical general purpose rifle
 
 ## Key terms
@@ -28,4 +34,4 @@ I might use uncommon phrases, technical terms, slang, or shorthand on occassion 
 
 **Far-Centrism** - similar to Radical Centrism, but instead of treating moderation as a virtue until itself, *Far-Centrism* is the valorization of remaining "apolitical" even beyond the point of reason or good sense
 
-**Pervasive Libertarianism** - also sometimes **Pernicious Libertarianism**; a belief that gained purchase in online communities and spaces sometime in the late 2000's that claims that not only is freedom of choice or taste a virtue unto itself but also that criticizing 
+**Pervasive Libertarianism** - also sometimes **Pernicious Libertarianism** or **Infectious Libertarianism**; a belief that gained purchase in online communities and spaces sometime in the late 2000's that claims that not only is freedom of choice or taste a virtue unto itself but also that criticizing a specific preference, personal choice, or favored activity is immoral and is never acceptable; examples: the "just let people enjoy things" retort whenever someone dares to criticize a choice as juvenile or questionably ethical, or the brand of internet feminism that says that women cannot be called-out for knowingly co-opting  male gaze irrespective of the second or third order effects that will have on other women
