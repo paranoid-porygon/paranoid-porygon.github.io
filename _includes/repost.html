@@ -2,7 +2,7 @@
 	{% assign ytvid = include.post.dest %} 
 {% include youtube.html vid=include.post.dest %}
 {% elsif include.post.is_img %}
-![{{ include.post.title }}](/assets/reposts/{{ include.post.dest }}){:width="100%"}
+{% include img.html asset_path="reposts/{{ include.post.dest }}" %}
 {% else %}
 <h3><a href="{{ include.post.dest }}" target="_blank" rel="noopener noreferrer">{{ include.post.title }}</a></h3>
 {% endif %}
