@@ -1,8 +1,6 @@
 {% if include.post.is_youtube %}
-	{% capture vid %} 
-		{{ include.post.dest }} 
-	{% end capture %}
-	{% include youtube.html vid=vid %}
+	{% assign ytvid = include.post.dest %} 
+	{% include youtube.html vid=ytvid %}
 {% elsif include.post.is_img %}
 ![{{ include.post.title }}](/assets/reposts/{{ include.post.dest }}){:width="100%"}
 {% else %}
