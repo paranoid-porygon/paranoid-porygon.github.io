@@ -1,5 +1,5 @@
 ---
-date: 19700101
+date: 20250602
 title: "Unbreakable Debian"
 dest: r5RV87IM8hM
 tags: [linux, howto]
