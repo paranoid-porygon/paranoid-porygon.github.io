@@ -32,6 +32,8 @@ I might use uncommon phrases, technical terms, slang, or shorthand on occassion 
 
 **Dealgorithming** - the act of extricating oneself from algorithmically generated recommender systems or feeds, or the more general act of divesting from Big Tech's ecosystem of services and apps
 
-**Far-Centrism** - similar to Radical Centrism, but instead of treating moderation as a virtue until itself, *Far-Centrism* is the valorization of remaining "apolitical" even beyond the point of reason or good sense
+**Far-Centrism** - similar to Radical Centrism, but instead of treating moderation as a virtue unto itself, *Far-Centrism* is the valorization of remaining "apolitical" even beyond the point of reason or good sense
+
+**Panslopticon** - a panopticon that constantly feeds you slop; refers to endless scroll social media sites, apps, and the unsecured hardware that deliver them that double as both Orwell's two-way telescreens as well as Huxley's Feelies; spyware that gives you dopamine disregulation, bad opsec, and bad taste
 
 **Pervasive Libertarianism** - also sometimes **Pernicious Libertarianism** or **Infectious Libertarianism**; a belief that gained purchase in online communities and spaces sometime in the late 2000's that claims that not only is freedom of choice or taste a virtue unto itself but also that criticizing a specific preference, personal choice, or favored activity is immoral and is never acceptable; examples: the "just let people enjoy things" retort whenever someone dares to criticize a choice as juvenile or questionably ethical, or the brand of internet feminism that says that women cannot be called-out for knowingly co-opting  male gaze irrespective of the second or third order effects that will have on other women
