@@ -30,14 +30,14 @@ We want to make this computer reasonably, but not cumbersomely, secure. To do so
 5) implementing MAC (Mandatory Access Control) through apparmor
 6) implementing sandboxing using firejail
 7) configuring a firewall using iptables/UFW
-9) establishing corrective controls (clamav, rkhunter, deja-dup)
-10) using USBGuard to protect against rogue USB devices
-11) miscellaneous security measures
-12) using Mullvad VPN to secure our traffic and DNS requests
-13) setting up virtualization for disposable VMs when browsing sketchy sites
-14) establishing detective controls (logwatch, lynis, AIDE)
-16) utilizing hardware security tokens (yubikey)
-17) TODO managing identity and access (KeePassXC, PGP)
+8) establishing corrective controls (clamav, rkhunter, deja-dup)
+9) using USBGuard to protect against rogue USB devices
+10) miscellaneous security measures
+11) using Mullvad VPN to secure our traffic and DNS requests
+12) setting up virtualization for disposable VMs when browsing sketchy sites
+13) establishing detective controls (logwatch, lynis, AIDE)
+14) utilizing hardware security tokens (yubikey)
+15) TODO managing identity and access (KeePassXC, PGP)
 
 ### Future research
 
