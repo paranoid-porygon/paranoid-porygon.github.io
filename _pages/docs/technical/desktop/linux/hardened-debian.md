@@ -23,21 +23,21 @@ I performed these steps on a Lenovo T480 so you may experience some hardware dif
 
 We want to make this computer reasonably, but not cumbersomely, secure. To do so we will prioritize the following:
 
-1) password-protect the BIOS
-2) install the base system to a fully-encrypted LVM 
-3) TODO enable SecureBoot
-4) blacklist unneeded kernel module
-5) implementing MAC (Mandatory Access Control) through apparmor
-6) implementing sandboxing using firejail
-7) configuring a firewall using iptables/UFW
-8) establishing corrective controls (clamav, rkhunter, deja-dup)
-9) using USBGuard to protect against rogue USB devices
-10) miscellaneous security measures
-11) using Mullvad VPN to secure our traffic and DNS requests
-12) setting up virtualization for disposable VMs when browsing sketchy sites
-13) establishing detective controls (logwatch, lynis, AIDE)
-14) utilizing hardware security tokens (yubikey)
-15) TODO managing identity and access (KeePassXC, PGP)
+1. password-protect the BIOS
+2. install the base system to a fully-encrypted LVM 
+3. TODO enable SecureBoot
+4. blacklist unneeded kernel module
+5. implementing MAC (Mandatory Access Control) through apparmor
+6. implementing sandboxing using firejail
+7. configuring a firewall using iptables/UFW
+8. establishing corrective controls (clamav, rkhunter, deja-dup)
+9. using USBGuard to protect against rogue USB devices
+10. miscellaneous security measures
+11. using Mullvad VPN to secure our traffic and DNS requests
+12. setting up virtualization for disposable VMs when browsing sketchy sites
+13. establishing detective controls (logwatch, lynis, AIDE)
+14. utilizing hardware security tokens (yubikey)
+15. TODO managing identity and access (KeePassXC, PGP)
 
 ### Future research
 
