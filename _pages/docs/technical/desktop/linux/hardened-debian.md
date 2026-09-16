@@ -858,7 +858,7 @@ There is a lot of false advertising about what VPNs can do for customers, to the
 * hide from the VPN who you are if you are frequently visiting sites that can outright identify you
 * shield you from law enforcement if the VPN provider is subpoenaed
 
-### WIP 12.2    Installation
+### 11.2    Installation
 * https://mullvad.net/en/help/install-mullvad-app-linux
 
 #### 11.2.1 Dependencies
