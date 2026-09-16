@@ -4,7 +4,10 @@ title: "HOWTO: Hardened Debian Guide"
 permalink: /docs/technical/desktop/linux/hardened-debian
 ---
 
-# Device Hardening
+* This will become a table of contents (this text will be scrapped).
+{:toc}
+
+# Hardened Debian
 
 ## Overview
 

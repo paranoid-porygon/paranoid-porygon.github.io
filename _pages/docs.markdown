@@ -6,6 +6,13 @@ permalink: /docs/
 
 # Technical Documentation
 
+## Desktop Computer Setup
+
+### Linux
+
+[Hardened Debian](/docs/technical/desktop/linux/hardened-debian)
+
+
 # Miscellaneous Documents
 
 ## Health and Wellness
