@@ -1,12 +1,15 @@
 ---
 layout: default
 ---
-{{ content }}
 
 {% capture md %}
+
 * This will become a table of contents (this text will be scrapped).
 {:toc}
+
 {% endcapture %}
 {{ md | markdownify }}
 
+{% if page.last_updated %} <div class="post-date"> last updated: {{ page.last_updated | date_to_string  }}</div> {% endif %}
 
+{{ content }}

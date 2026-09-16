@@ -1,11 +1,12 @@
 ---
-layout: default
+layout: doc
 title: "HOWTO: Hardened Debian Guide"
 permalink: /docs/hardened-debian
+last_updated: 2026-09-15 21:43
 ---
 
-* This will become a table of contents (this text will be scrapped).
-{:toc}
+<--* This will become a table of contents (this text will be scrapped).
+{:toc}!-->
 
 # Hardened Debian
 
