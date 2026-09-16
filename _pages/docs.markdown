@@ -10,7 +10,7 @@ permalink: /docs/
 
 ### Linux
 
-[Hardened Debian](/docs/technical/desktop/linux/hardened-debian)
+[Hardened Debian](/docs/hardened-debian)
 
 
 # Miscellaneous Documents

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "HOWTO: Hardened Debian Guide"
-permalink: /docs/technical/desktop/linux/hardened-debian
+permalink: /docs/hardened-debian
 ---
 
 * This will become a table of contents (this text will be scrapped).
