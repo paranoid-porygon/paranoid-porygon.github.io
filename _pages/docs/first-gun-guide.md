@@ -1,6 +1,6 @@
 ---
-layout: default
-title: First Time Gun Owner's Guide
+layout: doc
+title: "First Time Gun Owner's Guide"
 permalink: /docs/first-gun-guide
 last_updated: 2026-10-01 14:44
 ---
