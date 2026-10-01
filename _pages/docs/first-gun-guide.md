@@ -2,6 +2,7 @@
 layout: default
 title: First Time Gun Owner's Guide
 permalink: /docs/first-gun-guide
+last_updated: 20261001
 ---
 
 * This will become a table of contents (this text will be scrapped).
@@ -336,6 +337,8 @@ Consider linking up with an affinity group, if that applies to you, and ask the 
 
 ## Practice {#practice}
 
+***This section is still under construction. Feel free to do a web search for the subheadings.***
+
 ### Dry Fire
 
 ### Live Fire
@@ -344,7 +347,9 @@ Consider linking up with an affinity group, if that applies to you, and ask the 
 
 #### USPSA
 
-#### USARMS
+#### IDPA
+
+#### PCSL
 
 # Considerations
 
