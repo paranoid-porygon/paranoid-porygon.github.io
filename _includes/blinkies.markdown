@@ -9,6 +9,6 @@
 {%- include blinky.html alt_text="windows is dead and windows killed it" gif_name="stop" dest="https://archlinux.org/" -%}
 {%- include blinky.html alt_text="remember to seed your torrents" gif_name="seedyourtorrents" dest="#" -%}
 {%- include blinky.html alt_text="brak now!" gif_name="braknow" dest="https://www.cameo.com/andymerrill2" -%}
-{%- include blinky.html alt_text="i survived Y2K but i haven't survived 2038" gif_name="y2ks.gif" dest="#" -%}
+{%- include blinky.html alt_text="i survived Y2K but i haven't survived 2038" gif_name="y2ks" dest="#" -%}
 {%- include blinky.html alt_text="yummy lil 88x31 badges" gif_name="88by31" dest="https://cyber.dabamos.de/88x31/index.html" -%}
 {%- include blinky.html alt_text="trans rights" gif_name="transnow2" dest="#" -%}
