@@ -6,7 +6,7 @@ blinkies:
     - "https://info.cern.ch/hypertext/WWW/TheProject.html"
 ---
 
-{% for blinky in blinkies %}
+{% for blinky in page.blinkies %}
 [![{{ blinky[0] }}](/assets/badges/{{ blinky[1] }}.gif)]({{ blinky[2] }})
 {% endfor %}
 
