@@ -4,7 +4,7 @@ title:  "I deleted my facebook for good this time."
 summary: "I successfully peer-pressured everyone I want to talk to into installing Signal, so there was nothing left keeping me around."
 last_updated:
 tags: [personal-updates, enshittification]
-published: false
+published: true
 ---
 
 It's not news that [facebook][experiment] [sucks][disinfo] [shit][genocide] and in its current state (if not from the outset) provides nothing of value to the world and only serves to irradiate the brains of your boomer parents and GenX in-laws. It managed to ingrain itself within the internet ecosystem as a combination of federated login provider, Craigslist usurper, AIM replacement, and dystopian Eventbrite alternative, the combination of which and its near universal adoption by everyone you know for those purposes make not having an account a dicey proposition. But I found an exit strategy that works, one that is ostensibly simple but in reality requires prolonged effort: being extremely annoying about getting everyone you care to talk to to install Signal. 
