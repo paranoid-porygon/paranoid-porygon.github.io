@@ -67,5 +67,5 @@ Below you'll find the latest posts from my [personal weblog](/blog) as well as [
 [![brak now!](/assets/badges/braknow.gif)](https://www.cameo.com/andymerrill2)
 ![i survived Y2K but i haven't survived 2038](/assets/badges/y2ks.gif)
 [![yummy lil 88x31 badges](/assets/badges/88by31.gif)](https://cyber.dabamos.de/88x31/index.html)
-
+{% include blinkies.html %}
 
