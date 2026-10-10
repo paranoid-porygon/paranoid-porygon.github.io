@@ -56,6 +56,7 @@ Below you'll find the latest posts from my [personal weblog](/blog) as well as [
 
 ## Blinkies
 
+{% include blinky.html alt_text="dubious-disc.blog" gif_name="dubious-disc" dest="https://dubious-disc.blog/" %}
 [![the www project](/assets/badges/www.gif)](https://info.cern.ch/hypertext/WWW/TheProject.html)
 [![this site is viewable with any browser](/assets/badges/anybrowser3.gif)](https://anybrowser.org/campaign/)
 [![i use arch btw](/assets/badges/archlinux.gif)](https://archlinux.org/)
