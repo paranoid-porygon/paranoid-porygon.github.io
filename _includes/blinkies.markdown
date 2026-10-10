@@ -1,4 +1,3 @@
-<p/>
 {%- include blinky.html alt_text="dubious-disc.blog" gif_name="dubious-disc" dest="https://dubious-disc.blog/" -%}
 {%- include blinky.html alt_text="the www project" gif_name="www" dest="https://info.cern.ch/hypertext/WWW/TheProject.html" -%}
 {%- include blinky.html alt_text="this site is viewable with any browser" gif_name="anybrowser3" dest="https://anybrowser.org/campaign/" -%}
