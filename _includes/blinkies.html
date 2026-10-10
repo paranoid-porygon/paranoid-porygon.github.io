@@ -7,5 +7,5 @@ blinkies:
 ---
 
 {% for blinky in blinkies %}
-{% include blinky.html alt_text=blinky[0] gif_name=blinky[1] dest=blinky[2] %}
+{{ blinky }}
 {% endfor %}
