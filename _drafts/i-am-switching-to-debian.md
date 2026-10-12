@@ -44,3 +44,4 @@ As I was getting the system set up for DC, I had a realization: this setup isn't
 So now my con laptop is my daily driver.
 
 [cbpp]: 
+[hardening-guide]:
