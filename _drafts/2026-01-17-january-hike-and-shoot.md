@@ -2,10 +2,13 @@
 layout: post
 title:  "[Range Report] January 2026 Hike and Shoot"
 summary: "My first hike and shoot taught me some gear lessons that should have been self-evident."
+date: 2026-11-01
 last_updated:
 tags: [gun stuff]
 published: false
 ---
+
+***Author's note: I had started writing this way back in January 2026 right after the event but forgot to finish and publish it. Oops.***
 
 A local shooting range often hosts "Hike and Shoot" events where participants hop just over the state line to an outdoor range with the promise of a few miles of hiking with rifle and pistol stages interspersed throughout. I had signed up for this a couple times before, but family emergencies and illness kept me home. This time I was finally able to make it, and I am glad that I did. Overall it was an extremely fun and rewarding experience, and I only have a couple bits of feedback to improve future events (which I plan to attend!).
 
@@ -22,6 +25,8 @@ In the leadup to the hike, I made sure to walk 3 miles a day before breakfast ev
 
 ### Rifle 
 
+{% include img.html alt_text="mean and potatoes: an AR-15 and a Glock 19" asset_path="post-images/hs-20260117/gats.jpg" %}
+
 I had used Black Friday as an opportunity to build a completely new upper for my main AR. I purchased parts that closely approximated a [WWSD][wwsd] upper (the only deviations being a 7075 aluminum receiver with a forward assist and a nitride bolt carrier group as opposed to a chrome one) and had a local shop put it all together since I do not have the means to weld a muzzle device to a barrel. I attached this to the PSA lower that I had been using and proceeded to take this to my home range and zero my optics and adjust the gas settings.
 
 Shortly thereafter, I had the opportunity to trade an AK I was not using for an honest-to-God WWSD CDR rifle. Exceited to have a KP-15 lower again (I regrettably sold my last one), I swapped it out for the PSA lower to get my own 90% WWSD rifle. The weekend before the hike, I took it to my home range to function check everything only to discover that the buffer weight in the KP-15 was significantly lighter than what I was using before and as a result was much louder and gassier. I adjusted the gas system as much as needed and stopped changing things...except that I noticed my LPVO was a bit loose on one of the quick release levers, so I tightened it and prayed it would not severely impact my zero.
@@ -29,6 +34,8 @@ Shortly thereafter, I had the opportunity to trade an AK I was not using for an 
 I zeroed both my LPVO and offset red dot using [Hornady Frontier 75gr BTHP 5.56][75gr] ammo with a 50-yard zero for both optics. I used the 50-yard zero because it seemed like the best "set and forget" option, and also because my LPVO has hash marks on the reticle above the center crosshair, which I used to figure out my 100-yard hold. While this approach makes sense for a "combat zero", it's not quite as good for a more precision-oriented application, which the hike ended up being.
 
 ### Load-bearing Equipment
+
+{% include img.html alt_text="CTCG starter deck featuring femme corpo V" asset_path="post-images/hs-20260117/gear.jpg" %}
 
 Despite having previously [extoled the virtues of the bandolier over the chest rig][bandolier], the way mine was configured meant that it did not interface well with my backpack. Rather than reconfigure the bandolier (which was specifically set up for home defense), I instead opted to just use a belt with my backpack.
 
