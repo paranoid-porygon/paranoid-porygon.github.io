@@ -10,7 +10,7 @@ assetdir:
 
 Last weekend I was supposed to attend a prerelease event for a new Pokemon TCG set with a longtime friend of mine, but due to my bad habit of overcommiting my free time and double-booking I arrived late and didn't get to participate. Partially due to a notoriously stale standard format and partially due to an even more notorious scalper problem, prereleases are the only way that we engage with the PTCG anymore because they offer an even playing field and relative affordability. While I waited for my friend to finish the pre-release tournament (he went 3-0; please clap), I meandered around the small TCG store (they don't sell any other kinds of games), noticing that their bread-and-butter seemed to be the Pokemon TCG and that they didn't stock any Magic: The Gathering products at all. They had a couple of other niche TCGs' products for sale, almost none of which seemed remotely interesting to me, a grown-ass adult who doesn't have the patience to learn complex mechanics, time to participate in a highly-demanding competitive circuit, or desire to spend money on any of the games with card art made for anime-obsessed pedophiles. The only standouts were a pair of starter decks for the Cyberpunk&trade; TCG.
 
-{% include img.html alt_text="CTCG starter deck featuring femme corpo V" asset_path="ctcg-prerelease/ctcg-starter-deck.jpeg" %}
+{% include img.html alt_text="CTCG starter deck featuring femme corpo V" asset_path="post-images/ctcg-prerelease/ctcg-starter-deck.jpeg" %}
 
 <!--excerpt-->
 
@@ -58,7 +58,7 @@ There is only so much recent Cyberpunk&trade; content that the publisher can min
 
 ## Verdict
 
-{% include img.html alt_text="blue-blue-green control deck; legends: Alt, Hanako, and Jackie" asset_path="ctcg-prerelease/ctcg-bbg.jpeg" %}
+{% include img.html alt_text="blue-blue-green control deck; legends: Alt, Hanako, and Jackie" asset_path="post-images/ctcg-prerelease/ctcg-bbg.jpeg" %}
 
 I and my gaming buddy both felt that the game is well designed and reasonably priced (we split a booster box that came out to $5 a pack). Singles at this time are dirt-ass cheap on TCG Player, so you can build a competitive deck for less than $50. We intend to keep playing it, even if only casually, but honestly I like the idea of going back to a local-only competitive scene rather than a every local tournament feeling like a qualifier for the international circuit (which is what Pokemon does) and every competitor being the sweatiest dude you've met in your life, figuratively and often literally. 
 
