@@ -6,6 +6,8 @@ permalink: /special-interests/WWII-history/partigiani
 
 # The Italian Partisans
 
+* [Italian Resistance (Working Class History)](https://workingclasshistory.com/podcast/e77-80-italian-resistance/)
+
 ## Women in the resistance
 
 * [Italian women quietly enabled a new front for the Allies in WWII](https://www.msn.com/en-us/society-culture-and-history/gender-and-sexual-identity/italian-women-quietly-enabled-a-new-front-for-the-allies-in-world-war-ii/ar-AA1TiKvY)
