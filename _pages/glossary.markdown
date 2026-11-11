@@ -42,7 +42,7 @@ large market capitalization companies who manufactures technology --primarily bu
 
 the gradual process of online (usually free) services/platforms degrading due to monetization after having achieved critical user mass and eliminating all meaningful competitive alternatives
 
-### Neologisms
+## Neologisms
 
 ### Clintonmaxxing 
 
