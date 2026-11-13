@@ -27,7 +27,7 @@
       ├─<a href="/ephemera" {% if page.title == "Ephemera" %}class="active-page"{% endif %}>ephemera</a><br>
       ├─<a href="/glossary" {% if page.title == "Glossary" %}class="active-page"{% endif %}>glossary</a><br>
       ├─<a href="/newsdump" {% if page.title == "newsdump" %}class="active-page"{% endif %}>newsdump</a><br>
-{% if page.title == "newsdump" %}
+{% elif page.title == "newsdump" %}
       │&nbsp;├─<a href="{{ site.url }}/newsfeed.xml" target="_blank" rel="noopener noreferrer">rss</a><br>
       │&nbsp;├─<a href="/newsdump/boycotts" {% if page.title == "Ongoing Boycotts and Related Updates" %}class="active-page"{% endif %}>boycotts</a><br>
       │&nbsp;├─<a href="/newsdump/ICE" {% if page.title == "ICE" %}class="active-page"{% endif %}>ICE</a><br>
